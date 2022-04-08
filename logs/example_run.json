@@ -1,8 +1,8 @@
 {
     "conflicts": [
         {
-            "agent1": 4,
-            "agent2": 14,
+            "agent1": 14,
+            "agent2": 4,
             "start_time": 640.0,
             "end_time": 690.0,
             "min_separation": 217.70725101008208,
@@ -10,8 +10,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 4,
-            "agent2": 14,
+            "agent1": 14,
+            "agent2": 4,
             "start_time": 710.0,
             "end_time": 730.0,
             "min_separation": 262.53375821988436,
@@ -19,8 +19,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 97,
-            "agent2": 95,
+            "agent1": 95,
+            "agent2": 97,
             "start_time": 1870.0,
             "end_time": 1870.0,
             "min_separation": 484.857634559126,
@@ -28,8 +28,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 124,
-            "agent2": 104,
+            "agent1": 104,
+            "agent2": 124,
             "start_time": 2200.0,
             "end_time": 2200.0,
             "min_separation": 482.9839657983478,
@@ -37,8 +37,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 106,
-            "agent2": 90,
+            "agent1": 90,
+            "agent2": 106,
             "start_time": 2200.0,
             "end_time": 2200.0,
             "min_separation": 473.9445608370983,
@@ -46,8 +46,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 81,
-            "agent2": 106,
+            "agent1": 106,
+            "agent2": 81,
             "start_time": 2260.0,
             "end_time": 2310.0,
             "min_separation": 256.7251682408409,
@@ -55,8 +55,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 109,
-            "agent2": 117,
+            "agent1": 117,
+            "agent2": 109,
             "start_time": 2510.0,
             "end_time": 2510.0,
             "min_separation": 492.4385819588256,
@@ -109,8 +109,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 161,
-            "agent2": 165,
+            "agent1": 165,
+            "agent2": 161,
             "start_time": 3100.0,
             "end_time": 3100.0,
             "min_separation": 444.076788858739,
@@ -136,8 +136,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 133,
-            "agent2": 202,
+            "agent1": 202,
+            "agent2": 133,
             "start_time": 3300.0,
             "end_time": 3300.0,
             "min_separation": 453.2180074272831,
@@ -145,8 +145,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 133,
-            "agent2": 202,
+            "agent1": 202,
+            "agent2": 133,
             "start_time": 3320.0,
             "end_time": 3330.0,
             "min_separation": 322.0404529619449,
@@ -163,8 +163,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 217,
-            "agent2": 230,
+            "agent1": 230,
+            "agent2": 217,
             "start_time": 3670.0,
             "end_time": 3670.0,
             "min_separation": 479.244661709426,
@@ -172,8 +172,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 230,
-            "agent2": 238,
+            "agent1": 238,
+            "agent2": 230,
             "start_time": 3780.0,
             "end_time": 3860.0,
             "min_separation": 98.28019025691695,
@@ -181,8 +181,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 228,
-            "agent2": 211,
+            "agent1": 211,
+            "agent2": 228,
             "start_time": 4110.0,
             "end_time": 4170.0,
             "min_separation": 200.19538778679916,
@@ -190,8 +190,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 237,
-            "agent2": 249,
+            "agent1": 249,
+            "agent2": 237,
             "start_time": 4180.0,
             "end_time": 4180.0,
             "min_separation": 498.47254410356953,
@@ -217,8 +217,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 277,
-            "agent2": 224,
+            "agent1": 224,
+            "agent2": 277,
             "start_time": 4500.0,
             "end_time": 4500.0,
             "min_separation": 444.1293062014316,
@@ -235,8 +235,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 283,
-            "agent2": 258,
+            "agent1": 258,
+            "agent2": 283,
             "start_time": 4980.0,
             "end_time": 4980.0,
             "min_separation": 460.26097011798606,
@@ -262,8 +262,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 283,
-            "agent2": 258,
+            "agent1": 258,
+            "agent2": 283,
             "start_time": 5000.0,
             "end_time": 5050.0,
             "min_separation": 133.09130280204428,
@@ -280,8 +280,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 282,
-            "agent2": 330,
+            "agent1": 330,
+            "agent2": 282,
             "start_time": 5190.0,
             "end_time": 5190.0,
             "min_separation": 499.04870336348245,
@@ -289,8 +289,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 317,
-            "agent2": 281,
+            "agent1": 281,
+            "agent2": 317,
             "start_time": 5220.0,
             "end_time": 5220.0,
             "min_separation": 448.11616218270717,
@@ -298,8 +298,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 272,
-            "agent2": 296,
+            "agent1": 296,
+            "agent2": 272,
             "start_time": 4900.0,
             "end_time": 5340.0,
             "min_separation": 243.1375315769516,
@@ -307,8 +307,8 @@
             "min_z_separation": 0
         },
         {
-            "agent1": 324,
-            "agent2": 329,
+            "agent1": 329,
+            "agent2": 324,
             "start_time": 5350.0,
             "end_time": 5350.0,
             "min_separation": 487.0432796050051,
@@ -330,8 +330,8 @@
             "time_removed_from_sim": 380.0,
             "heading": -0.17785331077675007,
             "density": 5.266666666666667,
-            "average_time_to_plan_avoidance": 0.00010139942169189453,
-            "total_planning_time": 0.003041982650756836
+            "average_time_to_plan_avoidance": 0.0001332680384318034,
+            "total_planning_time": 0.0039980411529541016
         },
         {
             "flight_status": "finished",
@@ -346,8 +346,8 @@
             "time_removed_from_sim": 460.0,
             "heading": -0.40263516090368257,
             "density": 7.2666666666666675,
-            "average_time_to_plan_avoidance": 0.0003057718276977539,
-            "total_planning_time": 0.009173154830932617
+            "average_time_to_plan_avoidance": 9.996891021728516e-05,
+            "total_planning_time": 0.0029990673065185547
         },
         {
             "flight_status": "finished",
@@ -362,8 +362,8 @@
             "time_removed_from_sim": 500.0,
             "heading": -3.032722543287271,
             "density": 9.777777777777779,
-            "average_time_to_plan_avoidance": 0.00033775965372721356,
-            "total_planning_time": 0.006079673767089844
+            "average_time_to_plan_avoidance": 5.556477440728081e-05,
+            "total_planning_time": 0.0010001659393310547
         },
         {
             "flight_status": "finished",
@@ -378,8 +378,8 @@
             "time_removed_from_sim": 560.0,
             "heading": -1.29751677057525,
             "density": 12.5,
-            "average_time_to_plan_avoidance": 0.00012826919555664062,
-            "total_planning_time": 0.001026153564453125
+            "average_time_to_plan_avoidance": 0.00012496113777160645,
+            "total_planning_time": 0.0009996891021728516
         },
         {
             "flight_status": "finished",
@@ -394,8 +394,8 @@
             "time_removed_from_sim": 740.0,
             "heading": -0.8757059619842625,
             "density": 16.285714285714285,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00014281272888183594,
+            "total_planning_time": 0.001999378204345703
         },
         {
             "flight_status": "finished",
@@ -410,8 +410,8 @@
             "time_removed_from_sim": 810.0,
             "heading": 0.6044745307490282,
             "density": 10.12987012987013,
-            "average_time_to_plan_avoidance": 0.000321744324324967,
-            "total_planning_time": 0.02477431297302246
+            "average_time_to_plan_avoidance": 0.0001817554622501522,
+            "total_planning_time": 0.013995170593261719
         },
         {
             "flight_status": "finished",
@@ -426,8 +426,8 @@
             "time_removed_from_sim": 840.0,
             "heading": -1.7141216733679723,
             "density": 17.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00010705845696585519,
+            "total_planning_time": 0.0029976367950439453
         },
         {
             "flight_status": "finished",
@@ -442,8 +442,8 @@
             "time_removed_from_sim": 860.0,
             "heading": -2.947298217690662,
             "density": 13.758620689655173,
-            "average_time_to_plan_avoidance": 0.00010591539843329068,
-            "total_planning_time": 0.006143093109130859
+            "average_time_to_plan_avoidance": 0.00017224509140540813,
+            "total_planning_time": 0.009990215301513672
         },
         {
             "flight_status": "finished",
@@ -458,8 +458,8 @@
             "time_removed_from_sim": 880.0,
             "heading": -2.6005871124877507,
             "density": 15.0,
-            "average_time_to_plan_avoidance": 0.00013649463653564453,
-            "total_planning_time": 0.007097721099853516
+            "average_time_to_plan_avoidance": 0.00017299101902888372,
+            "total_planning_time": 0.008995532989501953
         },
         {
             "flight_status": "finished",
@@ -474,8 +474,8 @@
             "time_removed_from_sim": 900.0,
             "heading": -1.6882274316298638,
             "density": 17.263157894736842,
-            "average_time_to_plan_avoidance": 2.6533478184750204e-05,
-            "total_planning_time": 0.0010082721710205078
+            "average_time_to_plan_avoidance": 0.00018454852857087789,
+            "total_planning_time": 0.007012844085693359
         },
         {
             "flight_status": "finished",
@@ -490,8 +490,8 @@
             "time_removed_from_sim": 910.0,
             "heading": -0.6160830533697751,
             "density": 12.379746835443038,
-            "average_time_to_plan_avoidance": 0.00032019313377670095,
-            "total_planning_time": 0.025295257568359375
+            "average_time_to_plan_avoidance": 0.00012643729584126533,
+            "total_planning_time": 0.009988546371459961
         },
         {
             "flight_status": "finished",
@@ -506,8 +506,8 @@
             "time_removed_from_sim": 940.0,
             "heading": 2.4405423664648054,
             "density": 19.76923076923077,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00019222039442795975,
+            "total_planning_time": 0.004997730255126953
         },
         {
             "flight_status": "finished",
@@ -522,8 +522,8 @@
             "time_removed_from_sim": 950.0,
             "heading": -1.051535322116279,
             "density": 21.5,
-            "average_time_to_plan_avoidance": 7.176399230957031e-05,
-            "total_planning_time": 0.0010046958923339844
+            "average_time_to_plan_avoidance": 7.144042423793248e-05,
+            "total_planning_time": 0.0010001659393310547
         },
         {
             "flight_status": "finished",
@@ -554,8 +554,8 @@
             "time_removed_from_sim": 1050.0,
             "heading": 2.47900827411288,
             "density": 25.2,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.0004001140594482422,
+            "total_planning_time": 0.002000570297241211
         },
         {
             "flight_status": "finished",
@@ -570,8 +570,8 @@
             "time_removed_from_sim": 1070.0,
             "heading": 1.5273629035998357,
             "density": 20.88372093023256,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00011634272198344386,
+            "total_planning_time": 0.005002737045288086
         },
         {
             "flight_status": "finished",
@@ -586,8 +586,8 @@
             "time_removed_from_sim": 1160.0,
             "heading": 1.538274211674982,
             "density": 16.5,
-            "average_time_to_plan_avoidance": 0.0002660502990086873,
-            "total_planning_time": 0.025540828704833984
+            "average_time_to_plan_avoidance": 0.00020827104647954306,
+            "total_planning_time": 0.019994020462036133
         },
         {
             "flight_status": "finished",
@@ -602,8 +602,8 @@
             "time_removed_from_sim": 1190.0,
             "heading": -2.5029327652524205,
             "density": 25.12121212121212,
-            "average_time_to_plan_avoidance": 0.0009472081155487986,
-            "total_planning_time": 0.03125786781311035
+            "average_time_to_plan_avoidance": 0.00027259190877278644,
+            "total_planning_time": 0.008995532989501953
         },
         {
             "flight_status": "finished",
@@ -618,8 +618,8 @@
             "time_removed_from_sim": 1210.0,
             "heading": -2.495291649723718,
             "density": 14.62809917355372,
-            "average_time_to_plan_avoidance": 0.00037582846712474983,
-            "total_planning_time": 0.04547524452209473
+            "average_time_to_plan_avoidance": 0.00015696612271395597,
+            "total_planning_time": 0.018992900848388672
         },
         {
             "flight_status": "finished",
@@ -634,8 +634,8 @@
             "time_removed_from_sim": 1210.0,
             "heading": 1.420955937291307,
             "density": 17.628865979381445,
-            "average_time_to_plan_avoidance": 0.0002452737277316064,
-            "total_planning_time": 0.02379155158996582
+            "average_time_to_plan_avoidance": 0.00016511346876006764,
+            "total_planning_time": 0.016016006469726562
         },
         {
             "flight_status": "finished",
@@ -666,8 +666,8 @@
             "time_removed_from_sim": 1260.0,
             "heading": 1.436004712331238,
             "density": 27.129032258064516,
-            "average_time_to_plan_avoidance": 0.0005694204761135963,
-            "total_planning_time": 0.017652034759521484
+            "average_time_to_plan_avoidance": 0.0002258131580968057,
+            "total_planning_time": 0.0070002079010009766
         },
         {
             "flight_status": "finished",
@@ -682,8 +682,8 @@
             "time_removed_from_sim": 1280.0,
             "heading": 2.381368224551998,
             "density": 28.5,
-            "average_time_to_plan_avoidance": 4.197160402933756e-05,
-            "total_planning_time": 0.0010073184967041016
+            "average_time_to_plan_avoidance": 0.00016664465268452963,
+            "total_planning_time": 0.003999471664428711
         },
         {
             "flight_status": "finished",
@@ -698,8 +698,8 @@
             "time_removed_from_sim": 1320.0,
             "heading": -2.7683633163643724,
             "density": 30.5,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00018742680549621582,
+            "total_planning_time": 0.002998828887939453
         },
         {
             "flight_status": "finished",
@@ -714,8 +714,8 @@
             "time_removed_from_sim": 1330.0,
             "heading": 0.8276327916163683,
             "density": 21.629213483146067,
-            "average_time_to_plan_avoidance": 0.000583897815661484,
-            "total_planning_time": 0.05196690559387207
+            "average_time_to_plan_avoidance": 0.00021333105108711157,
+            "total_planning_time": 0.01898646354675293
         },
         {
             "flight_status": "finished",
@@ -730,8 +730,8 @@
             "time_removed_from_sim": 1390.0,
             "heading": 0.11463489245808506,
             "density": 29.970588235294116,
-            "average_time_to_plan_avoidance": 0.000919804853551528,
-            "total_planning_time": 0.03127336502075195
+            "average_time_to_plan_avoidance": 0.00011722480549531825,
+            "total_planning_time": 0.00398564338684082
         },
         {
             "flight_status": "finished",
@@ -746,8 +746,8 @@
             "time_removed_from_sim": 1420.0,
             "heading": -3.0019767958274777,
             "density": 26.242857142857144,
-            "average_time_to_plan_avoidance": 0.0007135357175554548,
-            "total_planning_time": 0.049947500228881836
+            "average_time_to_plan_avoidance": 0.00027153491973876955,
+            "total_planning_time": 0.019007444381713867
         },
         {
             "flight_status": "finished",
@@ -762,8 +762,8 @@
             "time_removed_from_sim": 1440.0,
             "heading": -2.732906214882369,
             "density": 22.471153846153847,
-            "average_time_to_plan_avoidance": 0.0006797451239365798,
-            "total_planning_time": 0.0706934928894043
+            "average_time_to_plan_avoidance": 9.617897180410531e-05,
+            "total_planning_time": 0.010002613067626953
         },
         {
             "flight_status": "finished",
@@ -778,8 +778,8 @@
             "time_removed_from_sim": 1470.0,
             "heading": -2.6429220051499054,
             "density": 22.577981651376145,
-            "average_time_to_plan_avoidance": 0.0004815377226663292,
-            "total_planning_time": 0.05248761177062988
+            "average_time_to_plan_avoidance": 0.0001557507646193198,
+            "total_planning_time": 0.01697683334350586
         },
         {
             "flight_status": "finished",
@@ -794,8 +794,8 @@
             "time_removed_from_sim": 1530.0,
             "heading": 2.8890673517596936,
             "density": 30.413793103448278,
-            "average_time_to_plan_avoidance": 0.001365283439899313,
-            "total_planning_time": 0.07918643951416016
+            "average_time_to_plan_avoidance": 0.00012093987958184604,
+            "total_planning_time": 0.00701451301574707
         },
         {
             "flight_status": "finished",
@@ -810,8 +810,8 @@
             "time_removed_from_sim": 1540.0,
             "heading": 2.907398308674878,
             "density": 25.70408163265306,
-            "average_time_to_plan_avoidance": 0.00016990243172159,
-            "total_planning_time": 0.01665043830871582
+            "average_time_to_plan_avoidance": 0.0001225544481861348,
+            "total_planning_time": 0.012010335922241211
         },
         {
             "flight_status": "finished",
@@ -826,8 +826,8 @@
             "time_removed_from_sim": 1540.0,
             "heading": 0.5111045881529602,
             "density": 33.13157894736842,
-            "average_time_to_plan_avoidance": 2.650210731907895e-05,
-            "total_planning_time": 0.001007080078125
+            "average_time_to_plan_avoidance": 0.00010554414046438117,
+            "total_planning_time": 0.004010677337646484
         },
         {
             "flight_status": "finished",
@@ -842,8 +842,8 @@
             "time_removed_from_sim": 1550.0,
             "heading": 1.5034555041548812,
             "density": 24.577981651376145,
-            "average_time_to_plan_avoidance": 0.0003707387031765159,
-            "total_planning_time": 0.040410518646240234
+            "average_time_to_plan_avoidance": 0.00018325639427255053,
+            "total_planning_time": 0.019974946975708008
         },
         {
             "flight_status": "finished",
@@ -858,8 +858,8 @@
             "time_removed_from_sim": 1550.0,
             "heading": 0.402974414308682,
             "density": 25.076190476190476,
-            "average_time_to_plan_avoidance": 0.00019705182030087425,
-            "total_planning_time": 0.020690441131591797
+            "average_time_to_plan_avoidance": 0.0002856890360514323,
+            "total_planning_time": 0.02999734878540039
         },
         {
             "flight_status": "finished",
@@ -874,8 +874,8 @@
             "time_removed_from_sim": 1570.0,
             "heading": 2.9271489215177695,
             "density": 36.27777777777778,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00022217962476942275,
+            "total_planning_time": 0.003999233245849609
         },
         {
             "flight_status": "finished",
@@ -890,8 +890,8 @@
             "time_removed_from_sim": 1590.0,
             "heading": 1.078194455281563,
             "density": 31.301587301587304,
-            "average_time_to_plan_avoidance": 8.004052298409598e-06,
-            "total_planning_time": 0.0005042552947998047
+            "average_time_to_plan_avoidance": 0.00025393849327450706,
+            "total_planning_time": 0.015998125076293945
         },
         {
             "flight_status": "finished",
@@ -906,8 +906,8 @@
             "time_removed_from_sim": 1590.0,
             "heading": -2.001399332017298,
             "density": 34.36842105263158,
-            "average_time_to_plan_avoidance": 0.0004664471274928043,
-            "total_planning_time": 0.017724990844726562
+            "average_time_to_plan_avoidance": 0.00034196753250925163,
+            "total_planning_time": 0.012994766235351562
         },
         {
             "flight_status": "finished",
@@ -922,8 +922,8 @@
             "time_removed_from_sim": 1610.0,
             "heading": 2.7522050594178644,
             "density": 34.625,
-            "average_time_to_plan_avoidance": 0.0007817983627319336,
-            "total_planning_time": 0.031271934509277344
+            "average_time_to_plan_avoidance": 9.996294975280761e-05,
+            "total_planning_time": 0.003998517990112305
         },
         {
             "flight_status": "finished",
@@ -938,8 +938,8 @@
             "time_removed_from_sim": 1670.0,
             "heading": -1.6795147884729784,
             "density": 38.75,
-            "average_time_to_plan_avoidance": 0.0007814884185791016,
-            "total_planning_time": 0.01562976837158203
+            "average_time_to_plan_avoidance": 0.00014922618865966796,
+            "total_planning_time": 0.0029845237731933594
         },
         {
             "flight_status": "finished",
@@ -954,8 +954,8 @@
             "time_removed_from_sim": 1680.0,
             "heading": -2.8387032811390718,
             "density": 39.714285714285715,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.0001428297587803432,
+            "total_planning_time": 0.0019996166229248047
         },
         {
             "flight_status": "finished",
@@ -970,8 +970,8 @@
             "time_removed_from_sim": 1690.0,
             "heading": 0.9010543381087508,
             "density": 29.821052631578947,
-            "average_time_to_plan_avoidance": 0.00036611807973761307,
-            "total_planning_time": 0.03478121757507324
+            "average_time_to_plan_avoidance": 0.0003155030702289782,
+            "total_planning_time": 0.02997279167175293
         },
         {
             "flight_status": "finished",
@@ -986,8 +986,8 @@
             "time_removed_from_sim": 1690.0,
             "heading": 1.8075681683247007,
             "density": 30.0752688172043,
-            "average_time_to_plan_avoidance": 0.00035269798771027594,
-            "total_planning_time": 0.032800912857055664
+            "average_time_to_plan_avoidance": 0.00022567472150248865,
+            "total_planning_time": 0.020987749099731445
         },
         {
             "flight_status": "finished",
@@ -1002,8 +1002,8 @@
             "time_removed_from_sim": 1690.0,
             "heading": 0.565604547286127,
             "density": 40.75,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00012674927711486816,
+            "total_planning_time": 0.0010139942169189453
         },
         {
             "flight_status": "finished",
@@ -1018,8 +1018,8 @@
             "time_removed_from_sim": 1700.0,
             "heading": -0.0440629972558942,
             "density": 31.19767441860465,
-            "average_time_to_plan_avoidance": 1.1871027392010356e-05,
-            "total_planning_time": 0.0010209083557128906
+            "average_time_to_plan_avoidance": 0.00025560689526934956,
+            "total_planning_time": 0.021982192993164062
         },
         {
             "flight_status": "finished",
@@ -1066,8 +1066,8 @@
             "time_removed_from_sim": 1760.0,
             "heading": 1.5406546916702843,
             "density": 31.4375,
-            "average_time_to_plan_avoidance": 0.00033750633398691815,
-            "total_planning_time": 0.03240060806274414
+            "average_time_to_plan_avoidance": 0.0001249412695566813,
+            "total_planning_time": 0.011994361877441406
         },
         {
             "flight_status": "finished",
@@ -1082,8 +1082,8 @@
             "time_removed_from_sim": 1790.0,
             "heading": -2.443294086152962,
             "density": 38.76744186046512,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.0002557565999585529,
+            "total_planning_time": 0.010997533798217773
         },
         {
             "flight_status": "finished",
@@ -1098,8 +1098,8 @@
             "time_removed_from_sim": 1790.0,
             "heading": 1.8725446713656604,
             "density": 41.45454545454545,
-            "average_time_to_plan_avoidance": 0.002225182273171165,
-            "total_planning_time": 0.048954010009765625
+            "average_time_to_plan_avoidance": 0.0004536888816139915,
+            "total_planning_time": 0.009981155395507812
         },
         {
             "flight_status": "finished",
@@ -1114,8 +1114,8 @@
             "time_removed_from_sim": 1800.0,
             "heading": -0.8104739287850791,
             "density": 41.32,
-            "average_time_to_plan_avoidance": 0.0006249713897705079,
-            "total_planning_time": 0.015624284744262695
+            "average_time_to_plan_avoidance": 0.00015996932983398438,
+            "total_planning_time": 0.003999233245849609
         },
         {
             "flight_status": "finished",
@@ -1130,8 +1130,8 @@
             "time_removed_from_sim": 1820.0,
             "heading": 1.6221385821718444,
             "density": 42.72222222222222,
-            "average_time_to_plan_avoidance": 5.582968393961588e-05,
-            "total_planning_time": 0.001004934310913086
+            "average_time_to_plan_avoidance": 0.0005005333158704969,
+            "total_planning_time": 0.009009599685668945
         },
         {
             "flight_status": "finished",
@@ -1146,8 +1146,8 @@
             "time_removed_from_sim": 1830.0,
             "heading": 1.7942473468744087,
             "density": 33.68478260869565,
-            "average_time_to_plan_avoidance": 0.0010640776675680409,
-            "total_planning_time": 0.09789514541625977
+            "average_time_to_plan_avoidance": 0.00030415991078252375,
+            "total_planning_time": 0.027982711791992188
         },
         {
             "flight_status": "finished",
@@ -1162,8 +1162,8 @@
             "time_removed_from_sim": 1840.0,
             "heading": 3.048615452046523,
             "density": 36.416666666666664,
-            "average_time_to_plan_avoidance": 0.00028716524442036945,
-            "total_planning_time": 0.0206758975982666
+            "average_time_to_plan_avoidance": 0.00018019477526346842,
+            "total_planning_time": 0.012974023818969727
         },
         {
             "flight_status": "finished",
@@ -1178,8 +1178,8 @@
             "time_removed_from_sim": 1850.0,
             "heading": -0.7209401774227132,
             "density": 36.05194805194805,
-            "average_time_to_plan_avoidance": 0.0006483406215519101,
-            "total_planning_time": 0.04992222785949707
+            "average_time_to_plan_avoidance": 0.0002850681156307072,
+            "total_planning_time": 0.021950244903564453
         },
         {
             "flight_status": "finished",
@@ -1194,8 +1194,8 @@
             "time_removed_from_sim": 1850.0,
             "heading": -0.5809887092081351,
             "density": 38.271186440677965,
-            "average_time_to_plan_avoidance": 0.000528477006039377,
-            "total_planning_time": 0.031180143356323242
+            "average_time_to_plan_avoidance": 0.00040705729339082363,
+            "total_planning_time": 0.024016380310058594
         },
         {
             "flight_status": "finished",
@@ -1210,8 +1210,8 @@
             "time_removed_from_sim": 1860.0,
             "heading": -1.4980327438113972,
             "density": 39.148148148148145,
-            "average_time_to_plan_avoidance": 0.000597869908368146,
-            "total_planning_time": 0.03228497505187988
+            "average_time_to_plan_avoidance": 0.00020400241569236473,
+            "total_planning_time": 0.011016130447387695
         },
         {
             "flight_status": "finished",
@@ -1226,8 +1226,8 @@
             "time_removed_from_sim": 1860.0,
             "heading": -1.70194855919802,
             "density": 42.592592592592595,
-            "average_time_to_plan_avoidance": 0.0006533728705512153,
-            "total_planning_time": 0.017641067504882812
+            "average_time_to_plan_avoidance": 0.00018510995087800202,
+            "total_planning_time": 0.004997968673706055
         },
         {
             "flight_status": "finished",
@@ -1242,8 +1242,8 @@
             "time_removed_from_sim": 1880.0,
             "heading": -1.844605107070992,
             "density": 33.94,
-            "average_time_to_plan_avoidance": 0.0003225469589233398,
-            "total_planning_time": 0.032254695892333984
+            "average_time_to_plan_avoidance": 0.0002195906639099121,
+            "total_planning_time": 0.02195906639099121
         },
         {
             "flight_status": "finished",
@@ -1258,8 +1258,8 @@
             "time_removed_from_sim": 1900.0,
             "heading": -3.1201184170434306,
             "density": 39.16129032258065,
-            "average_time_to_plan_avoidance": 0.0005609104710240518,
-            "total_planning_time": 0.03477644920349121
+            "average_time_to_plan_avoidance": 0.00016102098649547946,
+            "total_planning_time": 0.009983301162719727
         },
         {
             "flight_status": "finished",
@@ -1274,8 +1274,8 @@
             "time_removed_from_sim": 1930.0,
             "heading": -0.8307808872926429,
             "density": 46.75,
-            "average_time_to_plan_avoidance": 0.004033118486404419,
-            "total_planning_time": 0.03226494789123535
+            "average_time_to_plan_avoidance": 0.00012496113777160645,
+            "total_planning_time": 0.0009996891021728516
         },
         {
             "flight_status": "finished",
@@ -1290,8 +1290,8 @@
             "time_removed_from_sim": 1940.0,
             "heading": 0.275661694727729,
             "density": 35.44,
-            "average_time_to_plan_avoidance": 0.0006607508659362793,
-            "total_planning_time": 0.06607508659362793
+            "average_time_to_plan_avoidance": 0.000260014533996582,
+            "total_planning_time": 0.026001453399658203
         },
         {
             "flight_status": "finished",
@@ -1306,8 +1306,8 @@
             "time_removed_from_sim": 1950.0,
             "heading": -1.844908637540473,
             "density": 38.91891891891892,
-            "average_time_to_plan_avoidance": 0.00043617390297554637,
-            "total_planning_time": 0.03227686882019043
+            "average_time_to_plan_avoidance": 0.00020264612661825645,
+            "total_planning_time": 0.014995813369750977
         },
         {
             "flight_status": "finished",
@@ -1322,8 +1322,8 @@
             "time_removed_from_sim": 1960.0,
             "heading": -0.7243325449966128,
             "density": 48.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00024962425231933594,
+            "total_planning_time": 0.0009984970092773438
         },
         {
             "flight_status": "finished",
@@ -1338,8 +1338,8 @@
             "time_removed_from_sim": 1970.0,
             "heading": 2.329029745371326,
             "density": 46.5,
-            "average_time_to_plan_avoidance": 5.6068102518717446e-05,
-            "total_planning_time": 0.001009225845336914
+            "average_time_to_plan_avoidance": 0.00027774439917670353,
+            "total_planning_time": 0.004999399185180664
         },
         {
             "flight_status": "finished",
@@ -1354,8 +1354,8 @@
             "time_removed_from_sim": 1990.0,
             "heading": -2.15140581945601,
             "density": 34.82608695652174,
-            "average_time_to_plan_avoidance": 0.0002803325653076172,
-            "total_planning_time": 0.03223824501037598
+            "average_time_to_plan_avoidance": 0.0002695042154063349,
+            "total_planning_time": 0.030992984771728516
         },
         {
             "flight_status": "finished",
@@ -1370,8 +1370,8 @@
             "time_removed_from_sim": 1990.0,
             "heading": 3.026046441043198,
             "density": 45.888888888888886,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.0004083757047299986,
+            "total_planning_time": 0.011026144027709961
         },
         {
             "flight_status": "finished",
@@ -1386,8 +1386,8 @@
             "time_removed_from_sim": 2000.0,
             "heading": -1.719489324581639,
             "density": 43.97727272727273,
-            "average_time_to_plan_avoidance": 0.0007447004318237305,
-            "total_planning_time": 0.03276681900024414
+            "average_time_to_plan_avoidance": 0.00015940991314974698,
+            "total_planning_time": 0.007014036178588867
         },
         {
             "flight_status": "finished",
@@ -1402,8 +1402,8 @@
             "time_removed_from_sim": 2010.0,
             "heading": -0.6378830886838427,
             "density": 36.06422018348624,
-            "average_time_to_plan_avoidance": 0.0004949482209091887,
-            "total_planning_time": 0.05394935607910156
+            "average_time_to_plan_avoidance": 0.0003121664764684275,
+            "total_planning_time": 0.034026145935058594
         },
         {
             "flight_status": "finished",
@@ -1418,8 +1418,8 @@
             "time_removed_from_sim": 2030.0,
             "heading": 1.592139538332391,
             "density": 38.15625,
-            "average_time_to_plan_avoidance": 0.00017329305410385132,
-            "total_planning_time": 0.016636133193969727
+            "average_time_to_plan_avoidance": 0.0002809936801592509,
+            "total_planning_time": 0.026975393295288086
         },
         {
             "flight_status": "finished",
@@ -1434,8 +1434,8 @@
             "time_removed_from_sim": 2030.0,
             "heading": 2.704833803819258,
             "density": 43.05263157894737,
-            "average_time_to_plan_avoidance": 0.0003158376927961383,
-            "total_planning_time": 0.018002748489379883
+            "average_time_to_plan_avoidance": 0.0003159046173095703,
+            "total_planning_time": 0.018006563186645508
         },
         {
             "flight_status": "finished",
@@ -1450,8 +1450,8 @@
             "time_removed_from_sim": 2030.0,
             "heading": -1.9554806722222995,
             "density": 48.875,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.0004979372024536133,
+            "total_planning_time": 0.003983497619628906
         },
         {
             "flight_status": "finished",
@@ -1466,8 +1466,8 @@
             "time_removed_from_sim": 2050.0,
             "heading": -1.827405984426271,
             "density": 47.4,
-            "average_time_to_plan_avoidance": 0.0012055492401123046,
-            "total_planning_time": 0.030138731002807617
+            "average_time_to_plan_avoidance": 0.00019998550415039061,
+            "total_planning_time": 0.004999637603759766
         },
         {
             "flight_status": "finished",
@@ -1482,8 +1482,8 @@
             "time_removed_from_sim": 2110.0,
             "heading": -2.5033140342860474,
             "density": 36.65853658536585,
-            "average_time_to_plan_avoidance": 0.0006766009136913269,
-            "total_planning_time": 0.0832219123840332
+            "average_time_to_plan_avoidance": 0.00021157807450953537,
+            "total_planning_time": 0.02602410316467285
         },
         {
             "flight_status": "finished",
@@ -1498,8 +1498,8 @@
             "time_removed_from_sim": 2110.0,
             "heading": -1.5985081553217793,
             "density": 40.582417582417584,
-            "average_time_to_plan_avoidance": 0.0007202520475282774,
-            "total_planning_time": 0.06554293632507324
+            "average_time_to_plan_avoidance": 0.0003077250260573167,
+            "total_planning_time": 0.02800297737121582
         },
         {
             "flight_status": "finished",
@@ -1514,8 +1514,8 @@
             "time_removed_from_sim": 2110.0,
             "heading": 0.8051534370703473,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00013330777486165364,
+            "total_planning_time": 0.0019996166229248047
         },
         {
             "flight_status": "finished",
@@ -1530,8 +1530,8 @@
             "time_removed_from_sim": 2130.0,
             "heading": 1.889687524074333,
             "density": 43.68115942028985,
-            "average_time_to_plan_avoidance": 0.0007074362989785014,
-            "total_planning_time": 0.0488131046295166
+            "average_time_to_plan_avoidance": 0.0002322991689046224,
+            "total_planning_time": 0.016028642654418945
         },
         {
             "flight_status": "finished",
@@ -1546,8 +1546,8 @@
             "time_removed_from_sim": 2140.0,
             "heading": -1.4493825959589022,
             "density": 43.25675675675676,
-            "average_time_to_plan_avoidance": 0.0006608350856884106,
-            "total_planning_time": 0.04890179634094238
+            "average_time_to_plan_avoidance": 0.00031057563987938136,
+            "total_planning_time": 0.02298259735107422
         },
         {
             "flight_status": "finished",
@@ -1562,8 +1562,8 @@
             "time_removed_from_sim": 2140.0,
             "heading": -0.5176781978178814,
             "density": 47.8235294117647,
-            "average_time_to_plan_avoidance": 0.0009193700902602252,
-            "total_planning_time": 0.031258583068847656
+            "average_time_to_plan_avoidance": 0.00047020351185518154,
+            "total_planning_time": 0.015986919403076172
         },
         {
             "flight_status": "finished",
@@ -1578,8 +1578,8 @@
             "time_removed_from_sim": 2140.0,
             "heading": 1.9719814632967527,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0009784417993882123,
-            "total_planning_time": 0.01663351058959961
+            "average_time_to_plan_avoidance": 0.00035278937395881205,
+            "total_planning_time": 0.005997419357299805
         },
         {
             "flight_status": "finished",
@@ -1594,8 +1594,8 @@
             "time_removed_from_sim": 2150.0,
             "heading": -1.6423950898878255,
             "density": 42.617283950617285,
-            "average_time_to_plan_avoidance": 0.0008330315719416112,
-            "total_planning_time": 0.06747555732727051
+            "average_time_to_plan_avoidance": 0.0002963248594307605,
+            "total_planning_time": 0.0240023136138916
         },
         {
             "flight_status": "finished",
@@ -1610,8 +1610,8 @@
             "time_removed_from_sim": 2210.0,
             "heading": 2.7921355554495064,
             "density": 45.26470588235294,
-            "average_time_to_plan_avoidance": 0.0007191896438598633,
-            "total_planning_time": 0.0489048957824707
+            "average_time_to_plan_avoidance": 0.00035367643131929287,
+            "total_planning_time": 0.024049997329711914
         },
         {
             "flight_status": "finished",
@@ -1626,8 +1626,8 @@
             "time_removed_from_sim": 2210.0,
             "heading": -2.6362688813856905,
             "density": 46.96153846153846,
-            "average_time_to_plan_avoidance": 3.868799943190355e-05,
-            "total_planning_time": 0.0020117759704589844
+            "average_time_to_plan_avoidance": 0.00021146810971773588,
+            "total_planning_time": 0.010996341705322266
         },
         {
             "flight_status": "finished",
@@ -1642,8 +1642,8 @@
             "time_removed_from_sim": 2230.0,
             "heading": -0.45688345375773015,
             "density": 47.44,
-            "average_time_to_plan_avoidance": 0.0006452846527099609,
-            "total_planning_time": 0.03226423263549805
+            "average_time_to_plan_avoidance": 0.0002791929244995117,
+            "total_planning_time": 0.013959646224975586
         },
         {
             "flight_status": "finished",
@@ -1658,8 +1658,8 @@
             "time_removed_from_sim": 2240.0,
             "heading": 2.7099886157073607,
             "density": 46.982142857142854,
-            "average_time_to_plan_avoidance": 0.00029706529208592007,
-            "total_planning_time": 0.016635656356811523
+            "average_time_to_plan_avoidance": 0.00026798674038478306,
+            "total_planning_time": 0.015007257461547852
         },
         {
             "flight_status": "finished",
@@ -1674,8 +1674,8 @@
             "time_removed_from_sim": 2250.0,
             "heading": 2.860006664681277,
             "density": 42.16831683168317,
-            "average_time_to_plan_avoidance": 0.0005278256860109839,
-            "total_planning_time": 0.053310394287109375
+            "average_time_to_plan_avoidance": 0.0003364133362722869,
+            "total_planning_time": 0.03397774696350098
         },
         {
             "flight_status": "finished",
@@ -1690,8 +1690,8 @@
             "time_removed_from_sim": 2290.0,
             "heading": 3.023795846808621,
             "density": 43.329896907216494,
-            "average_time_to_plan_avoidance": 0.000488441015027233,
-            "total_planning_time": 0.0473787784576416
+            "average_time_to_plan_avoidance": 0.0004128279145230952,
+            "total_planning_time": 0.040044307708740234
         },
         {
             "flight_status": "finished",
@@ -1706,8 +1706,8 @@
             "time_removed_from_sim": 2290.0,
             "heading": -1.982904607181435,
             "density": 47.867924528301884,
-            "average_time_to_plan_avoidance": 0.001826529232960827,
-            "total_planning_time": 0.09680604934692383
+            "average_time_to_plan_avoidance": 0.00033939109658295255,
+            "total_planning_time": 0.017987728118896484
         },
         {
             "flight_status": "finished",
@@ -1722,8 +1722,8 @@
             "time_removed_from_sim": 2330.0,
             "heading": -0.8971108163895242,
             "density": 47.166666666666664,
-            "average_time_to_plan_avoidance": 0.0005575635216452858,
-            "total_planning_time": 0.03679919242858887
+            "average_time_to_plan_avoidance": 0.00037809213002522785,
+            "total_planning_time": 0.02495408058166504
         },
         {
             "flight_status": "finished",
@@ -1738,8 +1738,8 @@
             "time_removed_from_sim": 2350.0,
             "heading": -1.9917769600549886,
             "density": 43.22429906542056,
-            "average_time_to_plan_avoidance": 0.0007105564402642651,
-            "total_planning_time": 0.07602953910827637
+            "average_time_to_plan_avoidance": 0.0002990437445239486,
+            "total_planning_time": 0.0319976806640625
         },
         {
             "flight_status": "finished",
@@ -1754,8 +1754,8 @@
             "time_removed_from_sim": 2380.0,
             "heading": -0.5605795464670177,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 2.910750252859933e-05,
-            "total_planning_time": 0.0010187625885009766
+            "average_time_to_plan_avoidance": 0.00014234270368303572,
+            "total_planning_time": 0.00498199462890625
         },
         {
             "flight_status": "finished",
@@ -1770,8 +1770,8 @@
             "time_removed_from_sim": 2380.0,
             "heading": -0.7688201984892375,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0018489758173624675,
-            "total_planning_time": 0.04437541961669922
+            "average_time_to_plan_avoidance": 0.0004583100477854411,
+            "total_planning_time": 0.010999441146850586
         },
         {
             "flight_status": "finished",
@@ -1786,8 +1786,8 @@
             "time_removed_from_sim": 2390.0,
             "heading": 0.6359079647853599,
             "density": 48.83673469387755,
-            "average_time_to_plan_avoidance": 0.0006382319391990194,
-            "total_planning_time": 0.03127336502075195
+            "average_time_to_plan_avoidance": 0.00028609256355129943,
+            "total_planning_time": 0.014018535614013672
         },
         {
             "flight_status": "finished",
@@ -1802,8 +1802,8 @@
             "time_removed_from_sim": 2390.0,
             "heading": 1.5122077249883816,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0006658267974853515,
-            "total_planning_time": 0.01664566993713379
+            "average_time_to_plan_avoidance": 0.00020053863525390625,
+            "total_planning_time": 0.005013465881347656
         },
         {
             "flight_status": "finished",
@@ -1818,8 +1818,8 @@
             "time_removed_from_sim": 2400.0,
             "heading": -2.9779019197434167,
             "density": 47.50704225352113,
-            "average_time_to_plan_avoidance": 0.0006957658579651738,
-            "total_planning_time": 0.049399375915527344
+            "average_time_to_plan_avoidance": 0.00030935650140466827,
+            "total_planning_time": 0.021964311599731445
         },
         {
             "flight_status": "finished",
@@ -1834,8 +1834,8 @@
             "time_removed_from_sim": 2450.0,
             "heading": 0.327465165633995,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 7.176399230957031e-05,
-            "total_planning_time": 0.0035164356231689453
+            "average_time_to_plan_avoidance": 0.0002235295821209343,
+            "total_planning_time": 0.010952949523925781
         },
         {
             "flight_status": "finished",
@@ -1850,8 +1850,8 @@
             "time_removed_from_sim": 2490.0,
             "heading": -1.8421251585638907,
             "density": 45.9009900990099,
-            "average_time_to_plan_avoidance": 0.00048321308475909847,
-            "total_planning_time": 0.048804521560668945
+            "average_time_to_plan_avoidance": 0.00035649951141659573,
+            "total_planning_time": 0.03600645065307617
         },
         {
             "flight_status": "finished",
@@ -1866,8 +1866,8 @@
             "time_removed_from_sim": 2500.0,
             "heading": 1.6078696378466433,
             "density": 46.46875,
-            "average_time_to_plan_avoidance": 0.00048744430144627887,
-            "total_planning_time": 0.04679465293884277
+            "average_time_to_plan_avoidance": 0.00035386035839716595,
+            "total_planning_time": 0.03397059440612793
         },
         {
             "flight_status": "finished",
@@ -1882,8 +1882,8 @@
             "time_removed_from_sim": 2500.0,
             "heading": -2.1395037129467944,
             "density": 48.582089552238806,
-            "average_time_to_plan_avoidance": 0.0007448125241407708,
-            "total_planning_time": 0.04990243911743164
+            "average_time_to_plan_avoidance": 0.0003129012549101417,
+            "total_planning_time": 0.020964384078979492
         },
         {
             "flight_status": "finished",
@@ -1898,8 +1898,8 @@
             "time_removed_from_sim": 2500.0,
             "heading": 2.2773300620369983,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.00034729639689127606,
-            "total_planning_time": 0.015628337860107422
+            "average_time_to_plan_avoidance": 0.0004883130391438802,
+            "total_planning_time": 0.02197408676147461
         },
         {
             "flight_status": "finished",
@@ -1914,8 +1914,8 @@
             "time_removed_from_sim": 2510.0,
             "heading": -0.24017138772869562,
             "density": 46.323232323232325,
-            "average_time_to_plan_avoidance": 0.0003248995000665838,
-            "total_planning_time": 0.0321650505065918
+            "average_time_to_plan_avoidance": 0.00028249952528211806,
+            "total_planning_time": 0.027967453002929688
         },
         {
             "flight_status": "finished",
@@ -1946,8 +1946,8 @@
             "time_removed_from_sim": 2550.0,
             "heading": 0.9587022216568257,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.000499725341796875,
+            "total_planning_time": 0.0019989013671875
         },
         {
             "flight_status": "finished",
@@ -1962,8 +1962,8 @@
             "time_removed_from_sim": 2560.0,
             "heading": 1.4499446293296183,
             "density": 47.114583333333336,
-            "average_time_to_plan_avoidance": 0.0008402367432912191,
-            "total_planning_time": 0.08066272735595703
+            "average_time_to_plan_avoidance": 0.00035420556863149005,
+            "total_planning_time": 0.03400373458862305
         },
         {
             "flight_status": "finished",
@@ -1978,8 +1978,8 @@
             "time_removed_from_sim": 2570.0,
             "heading": 2.572055020170126,
             "density": 45.75221238938053,
-            "average_time_to_plan_avoidance": 0.0003258232521799813,
-            "total_planning_time": 0.03681802749633789
+            "average_time_to_plan_avoidance": 0.0003008336092518494,
+            "total_planning_time": 0.033994197845458984
         },
         {
             "flight_status": "finished",
@@ -1994,8 +1994,8 @@
             "time_removed_from_sim": 2600.0,
             "heading": -0.4840124390468193,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0004288722307254107,
-            "total_planning_time": 0.016726016998291016
+            "average_time_to_plan_avoidance": 0.0003841901436830178,
+            "total_planning_time": 0.014983415603637695
         },
         {
             "flight_status": "finished",
@@ -2010,8 +2010,8 @@
             "time_removed_from_sim": 2620.0,
             "heading": 3.0233364149507556,
             "density": 48.83783783783784,
-            "average_time_to_plan_avoidance": 0.00028596375439618086,
-            "total_planning_time": 0.021161317825317383
+            "average_time_to_plan_avoidance": 0.00024332226933659735,
+            "total_planning_time": 0.018005847930908203
         },
         {
             "flight_status": "finished",
@@ -2026,8 +2026,8 @@
             "time_removed_from_sim": 2630.0,
             "heading": -1.19219552595432,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.00024191141128540039,
-            "total_planning_time": 0.014514684677124023
+            "average_time_to_plan_avoidance": 0.00029963254928588867,
+            "total_planning_time": 0.01797795295715332
         },
         {
             "flight_status": "finished",
@@ -2042,8 +2042,8 @@
             "time_removed_from_sim": 2640.0,
             "heading": -2.1959780426476554,
             "density": 48.734177215189874,
-            "average_time_to_plan_avoidance": 0.000605027886885631,
-            "total_planning_time": 0.047797203063964844
+            "average_time_to_plan_avoidance": 0.0003541783441471148,
+            "total_planning_time": 0.02798008918762207
         },
         {
             "flight_status": "finished",
@@ -2074,8 +2074,8 @@
             "time_removed_from_sim": 2670.0,
             "heading": 0.5356978641542947,
             "density": 46.92857142857143,
-            "average_time_to_plan_avoidance": 0.0004986971616744995,
-            "total_planning_time": 0.055854082107543945
+            "average_time_to_plan_avoidance": 0.0002944426877158029,
+            "total_planning_time": 0.03297758102416992
         },
         {
             "flight_status": "finished",
@@ -2090,8 +2090,8 @@
             "time_removed_from_sim": 2670.0,
             "heading": 0.6098538514226366,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0006087484030887999,
-            "total_planning_time": 0.017653703689575195
+            "average_time_to_plan_avoidance": 0.0002415180206298828,
+            "total_planning_time": 0.0070040225982666016
         },
         {
             "flight_status": "finished",
@@ -2106,8 +2106,8 @@
             "time_removed_from_sim": 2700.0,
             "heading": -1.7282747555645661,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 7.763275733360878e-05,
-            "total_planning_time": 0.001009225845336914
+            "average_time_to_plan_avoidance": 0.0003865498762864333,
+            "total_planning_time": 0.005025148391723633
         },
         {
             "flight_status": "finished",
@@ -2122,8 +2122,8 @@
             "time_removed_from_sim": 2710.0,
             "heading": 0.8440424280112026,
             "density": 47.294642857142854,
-            "average_time_to_plan_avoidance": 0.000530745301927839,
-            "total_planning_time": 0.05944347381591797
+            "average_time_to_plan_avoidance": 0.0002587565353938511,
+            "total_planning_time": 0.028980731964111328
         },
         {
             "flight_status": "finished",
@@ -2138,8 +2138,8 @@
             "time_removed_from_sim": 2710.0,
             "heading": -2.432571618407675,
             "density": 48.97402597402598,
-            "average_time_to_plan_avoidance": 0.0006350696860969841,
-            "total_planning_time": 0.04890036582946777
+            "average_time_to_plan_avoidance": 0.0004162509720046799,
+            "total_planning_time": 0.03205132484436035
         },
         {
             "flight_status": "finished",
@@ -2154,8 +2154,8 @@
             "time_removed_from_sim": 2740.0,
             "heading": -1.1934513452026294,
             "density": 48.733333333333334,
-            "average_time_to_plan_avoidance": 0.0007673899332682291,
-            "total_planning_time": 0.06906509399414062
+            "average_time_to_plan_avoidance": 0.00037869877285427516,
+            "total_planning_time": 0.034082889556884766
         },
         {
             "flight_status": "finished",
@@ -2170,8 +2170,8 @@
             "time_removed_from_sim": 2760.0,
             "heading": -1.52534916356195,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.001302500565846761,
-            "total_planning_time": 0.015630006790161133
+            "average_time_to_plan_avoidance": 0.00016651550928751627,
+            "total_planning_time": 0.0019981861114501953
         },
         {
             "flight_status": "finished",
@@ -2186,8 +2186,8 @@
             "time_removed_from_sim": 2770.0,
             "heading": 1.6384200812012462,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0003151467868259975,
-            "total_planning_time": 0.01764822006225586
+            "average_time_to_plan_avoidance": 0.000232011079788208,
+            "total_planning_time": 0.012992620468139648
         },
         {
             "flight_status": "finished",
@@ -2202,8 +2202,8 @@
             "time_removed_from_sim": 2780.0,
             "heading": -2.351514651348182,
             "density": 48.20754716981132,
-            "average_time_to_plan_avoidance": 0.000518877551240741,
-            "total_planning_time": 0.055001020431518555
+            "average_time_to_plan_avoidance": 0.0002924091411086748,
+            "total_planning_time": 0.03099536895751953
         },
         {
             "flight_status": "finished",
@@ -2218,8 +2218,8 @@
             "time_removed_from_sim": 2820.0,
             "heading": -1.048088318741727,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00024777650833129883,
+            "total_planning_time": 0.0009911060333251953
         },
         {
             "flight_status": "finished",
@@ -2234,8 +2234,8 @@
             "time_removed_from_sim": 2830.0,
             "heading": 2.4521284959137772,
             "density": 48.81443298969072,
-            "average_time_to_plan_avoidance": 0.0009298865328130033,
-            "total_planning_time": 0.09019899368286133
+            "average_time_to_plan_avoidance": 0.00032943057030746615,
+            "total_planning_time": 0.03195476531982422
         },
         {
             "flight_status": "finished",
@@ -2250,8 +2250,8 @@
             "time_removed_from_sim": 2850.0,
             "heading": 1.4077144612728534,
             "density": 48.81818181818182,
-            "average_time_to_plan_avoidance": 0.0008909461474177813,
-            "total_planning_time": 0.08820366859436035
+            "average_time_to_plan_avoidance": 0.0003637617284601385,
+            "total_planning_time": 0.03601241111755371
         },
         {
             "flight_status": "finished",
@@ -2266,8 +2266,8 @@
             "time_removed_from_sim": 2880.0,
             "heading": -0.895211701792972,
             "density": 48.22222222222222,
-            "average_time_to_plan_avoidance": 0.0011778040828867855,
-            "total_planning_time": 0.1378030776977539
+            "average_time_to_plan_avoidance": 0.0003079247270893847,
+            "total_planning_time": 0.03602719306945801
         },
         {
             "flight_status": "finished",
@@ -2282,8 +2282,8 @@
             "time_removed_from_sim": 2900.0,
             "heading": -0.9560809572486121,
             "density": 48.88235294117647,
-            "average_time_to_plan_avoidance": 0.0005459341348386279,
-            "total_planning_time": 0.05568528175354004
+            "average_time_to_plan_avoidance": 0.0002843749289419137,
+            "total_planning_time": 0.029006242752075195
         },
         {
             "flight_status": "finished",
@@ -2298,8 +2298,8 @@
             "time_removed_from_sim": 2900.0,
             "heading": 1.9110074640153567,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0006287411639564915,
-            "total_planning_time": 0.04778432846069336
+            "average_time_to_plan_avoidance": 0.0002897946458113821,
+            "total_planning_time": 0.02202439308166504
         },
         {
             "flight_status": "finished",
@@ -2314,8 +2314,8 @@
             "time_removed_from_sim": 2920.0,
             "heading": 0.9091311485791285,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0010075447923046047,
-            "total_planning_time": 0.05944514274597168
+            "average_time_to_plan_avoidance": 0.0003890021372649629,
+            "total_planning_time": 0.022951126098632812
         },
         {
             "flight_status": "finished",
@@ -2330,8 +2330,8 @@
             "time_removed_from_sim": 2920.0,
             "heading": -1.8151525537515767,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00031816959381103516,
+            "total_planning_time": 0.0069997310638427734
         },
         {
             "flight_status": "finished",
@@ -2346,8 +2346,8 @@
             "time_removed_from_sim": 2940.0,
             "heading": -0.6123605985631159,
             "density": 48.47457627118644,
-            "average_time_to_plan_avoidance": 0.000533429242796817,
-            "total_planning_time": 0.06294465065002441
+            "average_time_to_plan_avoidance": 0.0002967422291383905,
+            "total_planning_time": 0.03501558303833008
         },
         {
             "flight_status": "finished",
@@ -2362,8 +2362,8 @@
             "time_removed_from_sim": 2940.0,
             "heading": -1.4662440333040134,
             "density": 48.77777777777778,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.0002205371856689453,
+            "total_planning_time": 0.001984834671020508
         },
         {
             "flight_status": "finished",
@@ -2378,8 +2378,8 @@
             "time_removed_from_sim": 2970.0,
             "heading": 0.8764463778010005,
             "density": 48.68695652173913,
-            "average_time_to_plan_avoidance": 0.0008310338725214419,
-            "total_planning_time": 0.09556889533996582
+            "average_time_to_plan_avoidance": 0.0003131161565365999,
+            "total_planning_time": 0.036008358001708984
         },
         {
             "flight_status": "finished",
@@ -2394,8 +2394,8 @@
             "time_removed_from_sim": 2970.0,
             "heading": 2.6171594048168934,
             "density": 48.75221238938053,
-            "average_time_to_plan_avoidance": 0.0006189472907412369,
-            "total_planning_time": 0.06994104385375977
+            "average_time_to_plan_avoidance": 0.0003359634264380531,
+            "total_planning_time": 0.0379638671875
         },
         {
             "flight_status": "finished",
@@ -2410,8 +2410,8 @@
             "time_removed_from_sim": 2970.0,
             "heading": -1.3426008979647919,
             "density": 48.958333333333336,
-            "average_time_to_plan_avoidance": 0.00015733391046524048,
-            "total_planning_time": 0.015104055404663086
+            "average_time_to_plan_avoidance": 0.00027056286732355755,
+            "total_planning_time": 0.025974035263061523
         },
         {
             "flight_status": "finished",
@@ -2426,8 +2426,8 @@
             "time_removed_from_sim": 2980.0,
             "heading": -1.305952208220151,
             "density": 48.94202898550725,
-            "average_time_to_plan_avoidance": 0.0009022968402807263,
-            "total_planning_time": 0.06225848197937012
+            "average_time_to_plan_avoidance": 0.00020284583603126416,
+            "total_planning_time": 0.013996362686157227
         },
         {
             "flight_status": "finished",
@@ -2442,8 +2442,8 @@
             "time_removed_from_sim": 2980.0,
             "heading": -2.1916255904356063,
             "density": 48.87096774193548,
-            "average_time_to_plan_avoidance": 0.00032328790233981225,
-            "total_planning_time": 0.01002192497253418
+            "average_time_to_plan_avoidance": 0.0003547591547812185,
+            "total_planning_time": 0.010997533798217773
         },
         {
             "flight_status": "finished",
@@ -2458,8 +2458,8 @@
             "time_removed_from_sim": 3000.0,
             "heading": -1.7793337854382076,
             "density": 48.960396039603964,
-            "average_time_to_plan_avoidance": 0.0008513478949518487,
-            "total_planning_time": 0.08598613739013672
+            "average_time_to_plan_avoidance": 0.000326935607608002,
+            "total_planning_time": 0.0330204963684082
         },
         {
             "flight_status": "finished",
@@ -2474,8 +2474,8 @@
             "time_removed_from_sim": 3010.0,
             "heading": 1.2236473361416305,
             "density": 48.96078431372549,
-            "average_time_to_plan_avoidance": 0.0006129040437586167,
-            "total_planning_time": 0.0625162124633789
+            "average_time_to_plan_avoidance": 0.0003919648189170688,
+            "total_planning_time": 0.039980411529541016
         },
         {
             "flight_status": "finished",
@@ -2490,8 +2490,8 @@
             "time_removed_from_sim": 3020.0,
             "heading": 1.0007113153505707,
             "density": 48.94805194805195,
-            "average_time_to_plan_avoidance": 0.0004371853617878703,
-            "total_planning_time": 0.033663272857666016
+            "average_time_to_plan_avoidance": 0.0003626934893719562,
+            "total_planning_time": 0.027927398681640625
         },
         {
             "flight_status": "finished",
@@ -2506,8 +2506,8 @@
             "time_removed_from_sim": 3030.0,
             "heading": 0.3166092791499458,
             "density": 48.96116504854369,
-            "average_time_to_plan_avoidance": 0.0009202054403360608,
-            "total_planning_time": 0.09478116035461426
+            "average_time_to_plan_avoidance": 0.00034897072801312194,
+            "total_planning_time": 0.03594398498535156
         },
         {
             "flight_status": "finished",
@@ -2522,8 +2522,8 @@
             "time_removed_from_sim": 3060.0,
             "heading": -0.3258217836959722,
             "density": 48.96116504854369,
-            "average_time_to_plan_avoidance": 0.0007434215360474818,
-            "total_planning_time": 0.07657241821289062
+            "average_time_to_plan_avoidance": 0.0003593407788322967,
+            "total_planning_time": 0.03701210021972656
         },
         {
             "flight_status": "finished",
@@ -2538,8 +2538,8 @@
             "time_removed_from_sim": 3070.0,
             "heading": -0.05116607461067445,
             "density": 48.958333333333336,
-            "average_time_to_plan_avoidance": 3.139923016230265e-05,
-            "total_planning_time": 0.0030143260955810547
+            "average_time_to_plan_avoidance": 0.0003119756778081258,
+            "total_planning_time": 0.029949665069580078
         },
         {
             "flight_status": "finished",
@@ -2554,8 +2554,8 @@
             "time_removed_from_sim": 3070.0,
             "heading": 0.1581454071140709,
             "density": 48.92307692307692,
-            "average_time_to_plan_avoidance": 0.00032022824654212367,
-            "total_planning_time": 0.01665186882019043
+            "average_time_to_plan_avoidance": 0.00019226165918203501,
+            "total_planning_time": 0.00999760627746582
         },
         {
             "flight_status": "finished",
@@ -2570,8 +2570,8 @@
             "time_removed_from_sim": 3090.0,
             "heading": -3.1092014408970385,
             "density": 48.958333333333336,
-            "average_time_to_plan_avoidance": 0.00044068942467371625,
-            "total_planning_time": 0.04230618476867676
+            "average_time_to_plan_avoidance": 0.00027076154947280884,
+            "total_planning_time": 0.02599310874938965
         },
         {
             "flight_status": "finished",
@@ -2586,8 +2586,8 @@
             "time_removed_from_sim": 3120.0,
             "heading": 2.8773693759823953,
             "density": 48.960396039603964,
-            "average_time_to_plan_avoidance": 0.0004285302492651609,
-            "total_planning_time": 0.04328155517578125
+            "average_time_to_plan_avoidance": 0.0003963106929665745,
+            "total_planning_time": 0.04002737998962402
         },
         {
             "flight_status": "finished",
@@ -2602,8 +2602,8 @@
             "time_removed_from_sim": 3130.0,
             "heading": 2.11265769660459,
             "density": 48.634328358208954,
-            "average_time_to_plan_avoidance": 0.0007703766893984666,
-            "total_planning_time": 0.10323047637939453
+            "average_time_to_plan_avoidance": 0.0003655561760290345,
+            "total_planning_time": 0.048984527587890625
         },
         {
             "flight_status": "finished",
@@ -2634,8 +2634,8 @@
             "time_removed_from_sim": 3140.0,
             "heading": -2.3078471175483095,
             "density": 48.9375,
-            "average_time_to_plan_avoidance": 0.0005203187465667725,
-            "total_planning_time": 0.03330039978027344
+            "average_time_to_plan_avoidance": 0.00031268224120140076,
+            "total_planning_time": 0.02001166343688965
         },
         {
             "flight_status": "finished",
@@ -2650,8 +2650,8 @@
             "time_removed_from_sim": 3150.0,
             "heading": 0.802300855128303,
             "density": 48.93846153846154,
-            "average_time_to_plan_avoidance": 0.000768125974214994,
-            "total_planning_time": 0.04992818832397461
+            "average_time_to_plan_avoidance": 0.0003537581517146184,
+            "total_planning_time": 0.022994279861450195
         },
         {
             "flight_status": "finished",
@@ -2666,8 +2666,8 @@
             "time_removed_from_sim": 3150.0,
             "heading": -2.0169097831127387,
             "density": 48.92727272727273,
-            "average_time_to_plan_avoidance": 0.0006051800467751243,
-            "total_planning_time": 0.033284902572631836
+            "average_time_to_plan_avoidance": 0.00032688921148126774,
+            "total_planning_time": 0.017978906631469727
         },
         {
             "flight_status": "finished",
@@ -2682,8 +2682,8 @@
             "time_removed_from_sim": 3190.0,
             "heading": -2.6986619330205297,
             "density": 48.96296296296296,
-            "average_time_to_plan_avoidance": 0.0006012408821671097,
-            "total_planning_time": 0.06493401527404785
+            "average_time_to_plan_avoidance": 0.00024943440048782914,
+            "total_planning_time": 0.026938915252685547
         },
         {
             "flight_status": "finished",
@@ -2698,8 +2698,8 @@
             "time_removed_from_sim": 3200.0,
             "heading": 0.09025962660734095,
             "density": 48.91836734693877,
-            "average_time_to_plan_avoidance": 8.22398127341757e-05,
-            "total_planning_time": 0.004029750823974609
+            "average_time_to_plan_avoidance": 0.00030597861932248483,
+            "total_planning_time": 0.014992952346801758
         },
         {
             "flight_status": "finished",
@@ -2714,8 +2714,8 @@
             "time_removed_from_sim": 3220.0,
             "heading": -0.19040941057392236,
             "density": 48.95918367346939,
-            "average_time_to_plan_avoidance": 0.00020435634924440967,
-            "total_planning_time": 0.02002692222595215
+            "average_time_to_plan_avoidance": 0.0002140706899214764,
+            "total_planning_time": 0.020978927612304688
         },
         {
             "flight_status": "finished",
@@ -2730,8 +2730,8 @@
             "time_removed_from_sim": 3230.0,
             "heading": -0.86472019682352,
             "density": 48.94615384615385,
-            "average_time_to_plan_avoidance": 0.0005234791682316707,
-            "total_planning_time": 0.06805229187011719
+            "average_time_to_plan_avoidance": 0.0002846864553598257,
+            "total_planning_time": 0.037009239196777344
         },
         {
             "flight_status": "finished",
@@ -2746,8 +2746,8 @@
             "time_removed_from_sim": 3230.0,
             "heading": 0.6321821746259836,
             "density": 48.95238095238095,
-            "average_time_to_plan_avoidance": 0.0008265461240495954,
-            "total_planning_time": 0.06942987442016602
+            "average_time_to_plan_avoidance": 0.0003210448083423433,
+            "total_planning_time": 0.026967763900756836
         },
         {
             "flight_status": "finished",
@@ -2762,8 +2762,8 @@
             "time_removed_from_sim": 3240.0,
             "heading": 2.657595931107154,
             "density": 48.96330275229358,
-            "average_time_to_plan_avoidance": 0.0006346986928117385,
-            "total_planning_time": 0.06918215751647949
+            "average_time_to_plan_avoidance": 0.0003753517745831691,
+            "total_planning_time": 0.04091334342956543
         },
         {
             "flight_status": "finished",
@@ -2778,8 +2778,8 @@
             "time_removed_from_sim": 3250.0,
             "heading": -1.5014959597568909,
             "density": 48.925925925925924,
-            "average_time_to_plan_avoidance": 0.0012389730524133753,
-            "total_planning_time": 0.06690454483032227
+            "average_time_to_plan_avoidance": 0.00022223260667588975,
+            "total_planning_time": 0.012000560760498047
         },
         {
             "flight_status": "finished",
@@ -2794,8 +2794,8 @@
             "time_removed_from_sim": 3250.0,
             "heading": 1.0624053000756577,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.0006068519183567592,
+            "total_planning_time": 0.016991853713989258
         },
         {
             "flight_status": "finished",
@@ -2810,8 +2810,8 @@
             "time_removed_from_sim": 3280.0,
             "heading": 0.5196096585630149,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0006655025482177735,
-            "total_planning_time": 0.016637563705444336
+            "average_time_to_plan_avoidance": 0.00047969818115234375,
+            "total_planning_time": 0.011992454528808594
         },
         {
             "flight_status": "finished",
@@ -2826,8 +2826,8 @@
             "time_removed_from_sim": 3280.0,
             "heading": 0.6299824941971985,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00030796344463641825,
+            "total_planning_time": 0.0040035247802734375
         },
         {
             "flight_status": "finished",
@@ -2842,8 +2842,8 @@
             "time_removed_from_sim": 3290.0,
             "heading": 1.288480585928744,
             "density": 48.96,
-            "average_time_to_plan_avoidance": 0.0006599187850952149,
-            "total_planning_time": 0.06599187850952148
+            "average_time_to_plan_avoidance": 0.00036015033721923826,
+            "total_planning_time": 0.03601503372192383
         },
         {
             "flight_status": "finished",
@@ -2858,8 +2858,8 @@
             "time_removed_from_sim": 3300.0,
             "heading": 1.1128113341786388,
             "density": 48.93650793650794,
-            "average_time_to_plan_avoidance": 0.0002640239776126922,
-            "total_planning_time": 0.01663351058959961
+            "average_time_to_plan_avoidance": 0.0003491356259300595,
+            "total_planning_time": 0.02199554443359375
         },
         {
             "flight_status": "finished",
@@ -2874,8 +2874,8 @@
             "time_removed_from_sim": 3310.0,
             "heading": -1.3789420064942737,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00032254188291488153,
+            "total_planning_time": 0.009998798370361328
         },
         {
             "flight_status": "finished",
@@ -2890,8 +2890,8 @@
             "time_removed_from_sim": 3340.0,
             "heading": -1.5312802883304522,
             "density": 48.958333333333336,
-            "average_time_to_plan_avoidance": 0.0006201540430386862,
-            "total_planning_time": 0.05953478813171387
+            "average_time_to_plan_avoidance": 0.0002813885609308879,
+            "total_planning_time": 0.027013301849365234
         },
         {
             "flight_status": "finished",
@@ -2906,8 +2906,8 @@
             "time_removed_from_sim": 3350.0,
             "heading": -2.3661207438680227,
             "density": 48.955357142857146,
-            "average_time_to_plan_avoidance": 0.0009001706327710833,
-            "total_planning_time": 0.10081911087036133
+            "average_time_to_plan_avoidance": 0.0002678483724594116,
+            "total_planning_time": 0.0299990177154541
         },
         {
             "flight_status": "finished",
@@ -2922,8 +2922,8 @@
             "time_removed_from_sim": 3350.0,
             "heading": -2.441804824468102,
             "density": 48.91803278688525,
-            "average_time_to_plan_avoidance": 0.000272774305499968,
-            "total_planning_time": 0.016639232635498047
+            "average_time_to_plan_avoidance": 0.0003601293094822618,
+            "total_planning_time": 0.02196788787841797
         },
         {
             "flight_status": "finished",
@@ -2938,8 +2938,8 @@
             "time_removed_from_sim": 3360.0,
             "heading": 1.3645346378500216,
             "density": 48.94059405940594,
-            "average_time_to_plan_avoidance": 0.0008145606163704749,
-            "total_planning_time": 0.08227062225341797
+            "average_time_to_plan_avoidance": 0.0003372159334692625,
+            "total_planning_time": 0.03405880928039551
         },
         {
             "flight_status": "finished",
@@ -2954,8 +2954,8 @@
             "time_removed_from_sim": 3360.0,
             "heading": -1.5270496370812583,
             "density": 48.9375,
-            "average_time_to_plan_avoidance": 0.00039871782064437866,
-            "total_planning_time": 0.03827691078186035
+            "average_time_to_plan_avoidance": 0.00023933996756871542,
+            "total_planning_time": 0.02297663688659668
         },
         {
             "flight_status": "finished",
@@ -2970,8 +2970,8 @@
             "time_removed_from_sim": 3410.0,
             "heading": 1.973499014725436,
             "density": 48.88235294117647,
-            "average_time_to_plan_avoidance": 0.0009393084282968558,
-            "total_planning_time": 0.04790472984313965
+            "average_time_to_plan_avoidance": 0.00037218542659983914,
+            "total_planning_time": 0.018981456756591797
         },
         {
             "flight_status": "finished",
@@ -2986,8 +2986,8 @@
             "time_removed_from_sim": 3410.0,
             "heading": -1.726549913064106,
             "density": 48.95454545454545,
-            "average_time_to_plan_avoidance": 0.0008135167035189542,
-            "total_planning_time": 0.035794734954833984
+            "average_time_to_plan_avoidance": 0.00018214095722545278,
+            "total_planning_time": 0.008014202117919922
         },
         {
             "flight_status": "finished",
@@ -3002,8 +3002,8 @@
             "time_removed_from_sim": 3430.0,
             "heading": -0.3657112421176267,
             "density": 48.95652173913044,
-            "average_time_to_plan_avoidance": 0.0003725445788839589,
-            "total_planning_time": 0.01713705062866211
+            "average_time_to_plan_avoidance": 0.0002172770707503609,
+            "total_planning_time": 0.009994745254516602
         },
         {
             "flight_status": "finished",
@@ -3018,8 +3018,8 @@
             "time_removed_from_sim": 3470.0,
             "heading": 3.07232967424752,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00027190555225719106,
+            "total_planning_time": 0.0029909610748291016
         },
         {
             "flight_status": "finished",
@@ -3050,8 +3050,8 @@
             "time_removed_from_sim": 3500.0,
             "heading": 1.2626987479275924,
             "density": 48.94,
-            "average_time_to_plan_avoidance": 0.000176544189453125,
-            "total_planning_time": 0.0176544189453125
+            "average_time_to_plan_avoidance": 0.00027991533279418944,
+            "total_planning_time": 0.027991533279418945
         },
         {
             "flight_status": "finished",
@@ -3066,8 +3066,8 @@
             "time_removed_from_sim": 3510.0,
             "heading": 0.8975827794420612,
             "density": 48.95918367346939,
-            "average_time_to_plan_avoidance": 0.0006967758645816725,
-            "total_planning_time": 0.03414201736450195
+            "average_time_to_plan_avoidance": 0.00028559626365194516,
+            "total_planning_time": 0.013994216918945312
         },
         {
             "flight_status": "finished",
@@ -3082,8 +3082,8 @@
             "time_removed_from_sim": 3530.0,
             "heading": 0.3086028263029141,
             "density": 48.904761904761905,
-            "average_time_to_plan_avoidance": 1.609136187841022e-05,
-            "total_planning_time": 0.0010137557983398438
+            "average_time_to_plan_avoidance": 0.00030158814929780506,
+            "total_planning_time": 0.01900005340576172
         },
         {
             "flight_status": "finished",
@@ -3098,8 +3098,8 @@
             "time_removed_from_sim": 3560.0,
             "heading": 1.1823850515033327,
             "density": 48.93617021276596,
-            "average_time_to_plan_avoidance": 0.001029828761486297,
-            "total_planning_time": 0.09680390357971191
+            "average_time_to_plan_avoidance": 0.0002974449320042387,
+            "total_planning_time": 0.027959823608398438
         },
         {
             "flight_status": "finished",
@@ -3114,8 +3114,8 @@
             "time_removed_from_sim": 3560.0,
             "heading": -1.0828852420143618,
             "density": 48.93939393939394,
-            "average_time_to_plan_avoidance": 0.0005651820789683949,
-            "total_planning_time": 0.01865100860595703
+            "average_time_to_plan_avoidance": 0.00036353775949189156,
+            "total_planning_time": 0.011996746063232422
         },
         {
             "flight_status": "finished",
@@ -3130,8 +3130,8 @@
             "time_removed_from_sim": 3570.0,
             "heading": -2.0233860933574697,
             "density": 48.94444444444444,
-            "average_time_to_plan_avoidance": 0.00032230439009489837,
-            "total_planning_time": 0.03480887413024902
+            "average_time_to_plan_avoidance": 0.0003245075543721517,
+            "total_planning_time": 0.03504681587219238
         },
         {
             "flight_status": "finished",
@@ -3146,8 +3146,8 @@
             "time_removed_from_sim": 3570.0,
             "heading": -2.5731431678570273,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.00010841233389718192,
-            "total_planning_time": 0.0015177726745605469
+            "average_time_to_plan_avoidance": 0.00028686864035470147,
+            "total_planning_time": 0.00401616096496582
         },
         {
             "flight_status": "finished",
@@ -3162,8 +3162,8 @@
             "time_removed_from_sim": 3580.0,
             "heading": 2.5536434371782195,
             "density": 48.94392523364486,
-            "average_time_to_plan_avoidance": 0.0004044982874504874,
-            "total_planning_time": 0.04328131675720215
+            "average_time_to_plan_avoidance": 0.0002800571584255896,
+            "total_planning_time": 0.029966115951538086
         },
         {
             "flight_status": "finished",
@@ -3178,8 +3178,8 @@
             "time_removed_from_sim": 3580.0,
             "heading": 0.3573465213891238,
             "density": 48.94117647058823,
-            "average_time_to_plan_avoidance": 0.0005179409887276444,
-            "total_planning_time": 0.05282998085021973
+            "average_time_to_plan_avoidance": 0.00027434264912324795,
+            "total_planning_time": 0.02798295021057129
         },
         {
             "flight_status": "finished",
@@ -3194,8 +3194,8 @@
             "time_removed_from_sim": 3580.0,
             "heading": -0.4102854911526645,
             "density": 48.925925925925924,
-            "average_time_to_plan_avoidance": 0.0005282678721863546,
-            "total_planning_time": 0.04278969764709473
+            "average_time_to_plan_avoidance": 0.0003211645432460455,
+            "total_planning_time": 0.026014328002929688
         },
         {
             "flight_status": "finished",
@@ -3210,8 +3210,8 @@
             "time_removed_from_sim": 3590.0,
             "heading": 1.2465885543652275,
             "density": 48.967213114754095,
-            "average_time_to_plan_avoidance": 0.00109115975802062,
-            "total_planning_time": 0.06656074523925781
+            "average_time_to_plan_avoidance": 0.00026222135199875125,
+            "total_planning_time": 0.015995502471923828
         },
         {
             "flight_status": "finished",
@@ -3242,8 +3242,8 @@
             "time_removed_from_sim": 3610.0,
             "heading": -1.1428592544813312,
             "density": 48.917808219178085,
-            "average_time_to_plan_avoidance": 0.00013654852566653735,
-            "total_planning_time": 0.009968042373657227
+            "average_time_to_plan_avoidance": 0.00021927977261477954,
+            "total_planning_time": 0.016007423400878906
         },
         {
             "flight_status": "finished",
@@ -3258,8 +3258,8 @@
             "time_removed_from_sim": 3610.0,
             "heading": 1.4089020283118838,
             "density": 48.96666666666667,
-            "average_time_to_plan_avoidance": 0.00015048980712890626,
-            "total_planning_time": 0.009029388427734375
+            "average_time_to_plan_avoidance": 0.00026671091715494793,
+            "total_planning_time": 0.016002655029296875
         },
         {
             "flight_status": "finished",
@@ -3274,8 +3274,8 @@
             "time_removed_from_sim": 3620.0,
             "heading": -1.9364829110512352,
             "density": 48.924050632911396,
-            "average_time_to_plan_avoidance": 0.0005466606043562104,
-            "total_planning_time": 0.043186187744140625
+            "average_time_to_plan_avoidance": 0.00027860267252861697,
+            "total_planning_time": 0.022009611129760742
         },
         {
             "flight_status": "finished",
@@ -3290,8 +3290,8 @@
             "time_removed_from_sim": 3620.0,
             "heading": 0.8480757771947798,
             "density": 48.945945945945944,
-            "average_time_to_plan_avoidance": 0.00177116651792784,
-            "total_planning_time": 0.06553316116333008
+            "average_time_to_plan_avoidance": 0.00043315500826449007,
+            "total_planning_time": 0.016026735305786133
         },
         {
             "flight_status": "finished",
@@ -3306,8 +3306,8 @@
             "time_removed_from_sim": 3630.0,
             "heading": -2.4947104207012494,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.0003332694371541341,
+            "total_planning_time": 0.0019996166229248047
         },
         {
             "flight_status": "finished",
@@ -3322,8 +3322,8 @@
             "time_removed_from_sim": 3650.0,
             "heading": -1.6241390192312544,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0013025601704915364,
-            "total_planning_time": 0.015630722045898438
+            "average_time_to_plan_avoidance": 0.00016663471857706705,
+            "total_planning_time": 0.0019996166229248047
         },
         {
             "flight_status": "finished",
@@ -3338,8 +3338,8 @@
             "time_removed_from_sim": 3670.0,
             "heading": 1.2057256566757613,
             "density": 48.94174757281554,
-            "average_time_to_plan_avoidance": 0.0011477979641516232,
-            "total_planning_time": 0.11822319030761719
+            "average_time_to_plan_avoidance": 0.0003785925004088763,
+            "total_planning_time": 0.03899502754211426
         },
         {
             "flight_status": "finished",
@@ -3354,8 +3354,8 @@
             "time_removed_from_sim": 3700.0,
             "heading": -1.0540034775939922,
             "density": 48.954198473282446,
-            "average_time_to_plan_avoidance": 0.0006885601364019263,
-            "total_planning_time": 0.09020137786865234
+            "average_time_to_plan_avoidance": 0.00032780734637311395,
+            "total_planning_time": 0.04294276237487793
         },
         {
             "flight_status": "finished",
@@ -3370,8 +3370,8 @@
             "time_removed_from_sim": 3710.0,
             "heading": 1.948877602528738,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00023433367411295573,
+            "total_planning_time": 0.007030010223388672
         },
         {
             "flight_status": "finished",
@@ -3386,8 +3386,8 @@
             "time_removed_from_sim": 3710.0,
             "heading": -0.466091883023498,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.00012600421905517578,
-            "total_planning_time": 0.0025200843811035156
+            "average_time_to_plan_avoidance": 0.00039995908737182616,
+            "total_planning_time": 0.007999181747436523
         },
         {
             "flight_status": "finished",
@@ -3402,8 +3402,8 @@
             "time_removed_from_sim": 3720.0,
             "heading": 1.2153773186718044,
             "density": 48.972972972972975,
-            "average_time_to_plan_avoidance": 0.00010854489094502217,
-            "total_planning_time": 0.00401616096496582
+            "average_time_to_plan_avoidance": 0.00029714687450512037,
+            "total_planning_time": 0.010994434356689453
         },
         {
             "flight_status": "finished",
@@ -3418,8 +3418,8 @@
             "time_removed_from_sim": 3730.0,
             "heading": -1.1288842234249234,
             "density": 48.955555555555556,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00024394989013671876,
+            "total_planning_time": 0.010977745056152344
         },
         {
             "flight_status": "finished",
@@ -3434,8 +3434,8 @@
             "time_removed_from_sim": 3740.0,
             "heading": 0.5720437547639021,
             "density": 48.95652173913044,
-            "average_time_to_plan_avoidance": 0.0004704983338065769,
-            "total_planning_time": 0.02164292335510254
+            "average_time_to_plan_avoidance": 0.0002172200576118801,
+            "total_planning_time": 0.009992122650146484
         },
         {
             "flight_status": "finished",
@@ -3450,8 +3450,8 @@
             "time_removed_from_sim": 3740.0,
             "heading": -1.9536158433116497,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00038603635934682994,
+            "total_planning_time": 0.005018472671508789
         },
         {
             "flight_status": "finished",
@@ -3466,8 +3466,8 @@
             "time_removed_from_sim": 3790.0,
             "heading": -0.2897365776425401,
             "density": 48.94174757281554,
-            "average_time_to_plan_avoidance": 0.0006106825708185585,
-            "total_planning_time": 0.06290030479431152
+            "average_time_to_plan_avoidance": 0.0003007569359344186,
+            "total_planning_time": 0.030977964401245117
         },
         {
             "flight_status": "finished",
@@ -3482,8 +3482,8 @@
             "time_removed_from_sim": 3820.0,
             "heading": -1.145804738057474,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.0001251697540283203,
+            "total_planning_time": 0.0010013580322265625
         },
         {
             "flight_status": "finished",
@@ -3498,8 +3498,8 @@
             "time_removed_from_sim": 3850.0,
             "heading": 0.3068382921655822,
             "density": 48.97222222222222,
-            "average_time_to_plan_avoidance": 0.0011695358488294813,
-            "total_planning_time": 0.08420658111572266
+            "average_time_to_plan_avoidance": 0.00030564268430074054,
+            "total_planning_time": 0.02200627326965332
         },
         {
             "flight_status": "finished",
@@ -3514,8 +3514,8 @@
             "time_removed_from_sim": 3870.0,
             "heading": -0.5233739877946239,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0009389952117321538,
-            "total_planning_time": 0.047888755798339844
+            "average_time_to_plan_avoidance": 0.00015677657781862746,
+            "total_planning_time": 0.00799560546875
         },
         {
             "flight_status": "finished",
@@ -3530,8 +3530,8 @@
             "time_removed_from_sim": 3880.0,
             "heading": 3.111097451372003,
             "density": 48.9375,
-            "average_time_to_plan_avoidance": 0.000461411972840627,
-            "total_planning_time": 0.044295549392700195
+            "average_time_to_plan_avoidance": 0.00027051568031311035,
+            "total_planning_time": 0.025969505310058594
         },
         {
             "flight_status": "finished",
@@ -3546,8 +3546,8 @@
             "time_removed_from_sim": 3890.0,
             "heading": 2.9181738854102552,
             "density": 48.971014492753625,
-            "average_time_to_plan_avoidance": 0.0006996272266774938,
-            "total_planning_time": 0.04827427864074707
+            "average_time_to_plan_avoidance": 0.00039138655731643456,
+            "total_planning_time": 0.027005672454833984
         },
         {
             "flight_status": "finished",
@@ -3562,8 +3562,8 @@
             "time_removed_from_sim": 3890.0,
             "heading": -0.4870300667358843,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 2.2950626554943266e-05,
-            "total_planning_time": 0.0009639263153076172
+            "average_time_to_plan_avoidance": 0.0003573894500732422,
+            "total_planning_time": 0.015010356903076172
         },
         {
             "flight_status": "finished",
@@ -3578,8 +3578,8 @@
             "time_removed_from_sim": 3920.0,
             "heading": -2.976854812067079,
             "density": 48.95918367346939,
-            "average_time_to_plan_avoidance": 0.0006895527547719527,
-            "total_planning_time": 0.06757616996765137
+            "average_time_to_plan_avoidance": 0.00029550279889787944,
+            "total_planning_time": 0.028959274291992188
         },
         {
             "flight_status": "finished",
@@ -3594,8 +3594,8 @@
             "time_removed_from_sim": 3930.0,
             "heading": -3.094800141747567,
             "density": 48.97938144329897,
-            "average_time_to_plan_avoidance": 0.0006967057886811876,
-            "total_planning_time": 0.0675804615020752
+            "average_time_to_plan_avoidance": 0.0003711661112677191,
+            "total_planning_time": 0.03600311279296875
         },
         {
             "flight_status": "finished",
@@ -3610,8 +3610,8 @@
             "time_removed_from_sim": 4000.0,
             "heading": -0.9929582906489985,
             "density": 48.94915254237288,
-            "average_time_to_plan_avoidance": 0.000913353289588023,
-            "total_planning_time": 0.10777568817138672
+            "average_time_to_plan_avoidance": 0.00033097550020379533,
+            "total_planning_time": 0.03905510902404785
         },
         {
             "flight_status": "finished",
@@ -3626,8 +3626,8 @@
             "time_removed_from_sim": 4010.0,
             "heading": 0.017331649509581205,
             "density": 48.97560975609756,
-            "average_time_to_plan_avoidance": 0.00039255619049072266,
-            "total_planning_time": 0.03218960762023926
+            "average_time_to_plan_avoidance": 0.00028016799833716413,
+            "total_planning_time": 0.02297377586364746
         },
         {
             "flight_status": "finished",
@@ -3642,8 +3642,8 @@
             "time_removed_from_sim": 4010.0,
             "heading": -0.16831488970895242,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0012607528613163875,
-            "total_planning_time": 0.06555914878845215
+            "average_time_to_plan_avoidance": 0.00036517931864811824,
+            "total_planning_time": 0.01898932456970215
         },
         {
             "flight_status": "finished",
@@ -3658,8 +3658,8 @@
             "time_removed_from_sim": 4020.0,
             "heading": 2.342770097835903,
             "density": 48.98076923076923,
-            "average_time_to_plan_avoidance": 0.0007412364849677453,
-            "total_planning_time": 0.07708859443664551
+            "average_time_to_plan_avoidance": 0.0003746243623586801,
+            "total_planning_time": 0.038960933685302734
         },
         {
             "flight_status": "finished",
@@ -3674,8 +3674,8 @@
             "time_removed_from_sim": 4020.0,
             "heading": -2.7329720958056605,
             "density": 48.97894736842105,
-            "average_time_to_plan_avoidance": 0.0005359499078047903,
-            "total_planning_time": 0.05091524124145508
+            "average_time_to_plan_avoidance": 0.0003891668821635999,
+            "total_planning_time": 0.03697085380554199
         },
         {
             "flight_status": "finished",
@@ -3690,8 +3690,8 @@
             "time_removed_from_sim": 4020.0,
             "heading": 2.2367703465956237,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0005370955313405682,
-            "total_planning_time": 0.016649961471557617
+            "average_time_to_plan_avoidance": 0.00032101908037739416,
+            "total_planning_time": 0.009951591491699219
         },
         {
             "flight_status": "finished",
@@ -3706,8 +3706,8 @@
             "time_removed_from_sim": 4030.0,
             "heading": 1.150676482516136,
             "density": 48.977777777777774,
-            "average_time_to_plan_avoidance": 0.00023001299964057074,
-            "total_planning_time": 0.020701169967651367
+            "average_time_to_plan_avoidance": 0.0002995967864990234,
+            "total_planning_time": 0.02696371078491211
         },
         {
             "flight_status": "finished",
@@ -3722,8 +3722,8 @@
             "time_removed_from_sim": 4060.0,
             "heading": 2.909224374665125,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0011163268770490373,
-            "total_planning_time": 0.015628576278686523
+            "average_time_to_plan_avoidance": 0.0002887930188860212,
+            "total_planning_time": 0.004043102264404297
         },
         {
             "flight_status": "finished",
@@ -3738,8 +3738,8 @@
             "time_removed_from_sim": 4070.0,
             "heading": -1.9205101520726784,
             "density": 48.97894736842105,
-            "average_time_to_plan_avoidance": 0.0003502343830309416,
-            "total_planning_time": 0.03327226638793945
+            "average_time_to_plan_avoidance": 0.0003474411211515728,
+            "total_planning_time": 0.033006906509399414
         },
         {
             "flight_status": "finished",
@@ -3754,8 +3754,8 @@
             "time_removed_from_sim": 4080.0,
             "heading": -2.199103130077936,
             "density": 48.96491228070175,
-            "average_time_to_plan_avoidance": 0.0010920093770612751,
-            "total_planning_time": 0.12448906898498535
+            "average_time_to_plan_avoidance": 0.00028069604907119485,
+            "total_planning_time": 0.03199934959411621
         },
         {
             "flight_status": "finished",
@@ -3770,8 +3770,8 @@
             "time_removed_from_sim": 4080.0,
             "heading": 0.07905246937980238,
             "density": 48.97849462365591,
-            "average_time_to_plan_avoidance": 0.0007048012107931157,
-            "total_planning_time": 0.06554651260375977
+            "average_time_to_plan_avoidance": 0.00028047766736758655,
+            "total_planning_time": 0.026084423065185547
         },
         {
             "flight_status": "finished",
@@ -3786,8 +3786,8 @@
             "time_removed_from_sim": 4090.0,
             "heading": -2.6139383780607295,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.0006666978200276693,
+            "total_planning_time": 0.002000093460083008
         },
         {
             "flight_status": "finished",
@@ -3818,8 +3818,8 @@
             "time_removed_from_sim": 4110.0,
             "heading": 1.9422888068736128,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0007334459911693226,
-            "total_planning_time": 0.032271623611450195
+            "average_time_to_plan_avoidance": 0.00045440955595536667,
+            "total_planning_time": 0.019994020462036133
         },
         {
             "flight_status": "finished",
@@ -3834,8 +3834,8 @@
             "time_removed_from_sim": 4120.0,
             "heading": -0.3420244691904931,
             "density": 48.97701149425287,
-            "average_time_to_plan_avoidance": 0.0011151576864308324,
-            "total_planning_time": 0.09701871871948242
+            "average_time_to_plan_avoidance": 0.00035623024249898977,
+            "total_planning_time": 0.03099203109741211
         },
         {
             "flight_status": "finished",
@@ -3850,8 +3850,8 @@
             "time_removed_from_sim": 4120.0,
             "heading": 1.6438487125396097,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0003337860107421875,
-            "total_planning_time": 0.0186920166015625
+            "average_time_to_plan_avoidance": 0.0003752240112849644,
+            "total_planning_time": 0.021012544631958008
         },
         {
             "flight_status": "finished",
@@ -3866,8 +3866,8 @@
             "time_removed_from_sim": 4130.0,
             "heading": -2.992385252417937,
             "density": 48.97979797979798,
-            "average_time_to_plan_avoidance": 0.000977191058072177,
-            "total_planning_time": 0.09674191474914551
+            "average_time_to_plan_avoidance": 0.0003528667218757398,
+            "total_planning_time": 0.03493380546569824
         },
         {
             "flight_status": "finished",
@@ -3882,8 +3882,8 @@
             "time_removed_from_sim": 4140.0,
             "heading": -0.9967186134450199,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0006783650471613958,
-            "total_planning_time": 0.01763749122619629
+            "average_time_to_plan_avoidance": 0.0005366435417762169,
+            "total_planning_time": 0.01395273208618164
         },
         {
             "flight_status": "finished",
@@ -3898,8 +3898,8 @@
             "time_removed_from_sim": 4160.0,
             "heading": -2.4733758749853987,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0005882934287742332,
-            "total_planning_time": 0.031767845153808594
+            "average_time_to_plan_avoidance": 0.000389169763635706,
+            "total_planning_time": 0.021015167236328125
         },
         {
             "flight_status": "finished",
@@ -3914,8 +3914,8 @@
             "time_removed_from_sim": 4170.0,
             "heading": 2.647406994343679,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0003291185085590069,
-            "total_planning_time": 0.01711416244506836
+            "average_time_to_plan_avoidance": 0.00042188626069288986,
+            "total_planning_time": 0.021938085556030273
         },
         {
             "flight_status": "finished",
@@ -3930,8 +3930,8 @@
             "time_removed_from_sim": 4200.0,
             "heading": 3.0799874868595505,
             "density": 48.97959183673469,
-            "average_time_to_plan_avoidance": 0.0008437974112374442,
-            "total_planning_time": 0.08269214630126953
+            "average_time_to_plan_avoidance": 0.00037740687934719787,
+            "total_planning_time": 0.03698587417602539
         },
         {
             "flight_status": "finished",
@@ -3946,8 +3946,8 @@
             "time_removed_from_sim": 4240.0,
             "heading": 2.569923046333667,
             "density": 48.94871794871795,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00025569475614107575,
+            "total_planning_time": 0.009972095489501953
         },
         {
             "flight_status": "finished",
@@ -3962,8 +3962,8 @@
             "time_removed_from_sim": 4260.0,
             "heading": 0.2637846914420139,
             "density": 48.96116504854369,
-            "average_time_to_plan_avoidance": 0.001281694301123758,
-            "total_planning_time": 0.13201451301574707
+            "average_time_to_plan_avoidance": 0.00041648253653813334,
+            "total_planning_time": 0.042897701263427734
         },
         {
             "flight_status": "finished",
@@ -3978,8 +3978,8 @@
             "time_removed_from_sim": 4260.0,
             "heading": -0.7962746593005764,
             "density": 48.96078431372549,
-            "average_time_to_plan_avoidance": 0.00016183946646896062,
-            "total_planning_time": 0.016507625579833984
+            "average_time_to_plan_avoidance": 0.0003532919229245653,
+            "total_planning_time": 0.036035776138305664
         },
         {
             "flight_status": "finished",
@@ -3994,8 +3994,8 @@
             "time_removed_from_sim": 4270.0,
             "heading": -1.4371933455643435,
             "density": 48.94845360824742,
-            "average_time_to_plan_avoidance": 0.0009870873284094112,
-            "total_planning_time": 0.09574747085571289
+            "average_time_to_plan_avoidance": 0.0003918052948627275,
+            "total_planning_time": 0.03800511360168457
         },
         {
             "flight_status": "finished",
@@ -4010,8 +4010,8 @@
             "time_removed_from_sim": 4300.0,
             "heading": 0.7423639346599719,
             "density": 48.8,
-            "average_time_to_plan_avoidance": 0.001608856519063314,
-            "total_planning_time": 0.048265695571899414
+            "average_time_to_plan_avoidance": 0.00029993851979573567,
+            "total_planning_time": 0.00899815559387207
         },
         {
             "flight_status": "finished",
@@ -4026,8 +4026,8 @@
             "time_removed_from_sim": 4320.0,
             "heading": -1.8438070839960923,
             "density": 48.917808219178085,
-            "average_time_to_plan_avoidance": 0.0004568883817489833,
-            "total_planning_time": 0.03335285186767578
+            "average_time_to_plan_avoidance": 0.0003832137747986676,
+            "total_planning_time": 0.027974605560302734
         },
         {
             "flight_status": "finished",
@@ -4042,8 +4042,8 @@
             "time_removed_from_sim": 4320.0,
             "heading": 1.624792999171485,
             "density": 48.91428571428571,
-            "average_time_to_plan_avoidance": 0.00028798580169677737,
-            "total_planning_time": 0.020159006118774414
+            "average_time_to_plan_avoidance": 0.0004149981907435826,
+            "total_planning_time": 0.02904987335205078
         },
         {
             "flight_status": "finished",
@@ -4058,8 +4058,8 @@
             "time_removed_from_sim": 4330.0,
             "heading": -0.6962978930934055,
             "density": 48.93700787401575,
-            "average_time_to_plan_avoidance": 0.0005153295562023253,
-            "total_planning_time": 0.06544685363769531
+            "average_time_to_plan_avoidance": 0.0003148082673080324,
+            "total_planning_time": 0.03998064994812012
         },
         {
             "flight_status": "finished",
@@ -4074,8 +4074,8 @@
             "time_removed_from_sim": 4340.0,
             "heading": -1.4362795867239924,
             "density": 48.92929292929293,
-            "average_time_to_plan_avoidance": 0.00044735995205965907,
-            "total_planning_time": 0.04428863525390625
+            "average_time_to_plan_avoidance": 0.0003635088602701823,
+            "total_planning_time": 0.03598737716674805
         },
         {
             "flight_status": "finished",
@@ -4090,8 +4090,8 @@
             "time_removed_from_sim": 4340.0,
             "heading": -1.382870867883395,
             "density": 48.91549295774648,
-            "average_time_to_plan_avoidance": 0.0006888114230733522,
-            "total_planning_time": 0.04890561103820801
+            "average_time_to_plan_avoidance": 0.0003660296050595566,
+            "total_planning_time": 0.025988101959228516
         },
         {
             "flight_status": "finished",
@@ -4106,8 +4106,8 @@
             "time_removed_from_sim": 4340.0,
             "heading": -0.9039699490728431,
             "density": 48.904761904761905,
-            "average_time_to_plan_avoidance": 0.0010397245013524616,
-            "total_planning_time": 0.06550264358520508
+            "average_time_to_plan_avoidance": 0.0004125171237521701,
+            "total_planning_time": 0.02598857879638672
         },
         {
             "flight_status": "finished",
@@ -4122,8 +4122,8 @@
             "time_removed_from_sim": 4350.0,
             "heading": 2.837551086461246,
             "density": 48.92307692307692,
-            "average_time_to_plan_avoidance": 0.00035397593791668233,
-            "total_planning_time": 0.03681349754333496
+            "average_time_to_plan_avoidance": 0.00028815636268028844,
+            "total_planning_time": 0.02996826171875
         },
         {
             "flight_status": "finished",
@@ -4138,8 +4138,8 @@
             "time_removed_from_sim": 4360.0,
             "heading": -0.6853081649232414,
             "density": 48.93798449612403,
-            "average_time_to_plan_avoidance": 0.0007200315017108769,
-            "total_planning_time": 0.09288406372070312
+            "average_time_to_plan_avoidance": 0.0003721178040023922,
+            "total_planning_time": 0.048003196716308594
         },
         {
             "flight_status": "finished",
@@ -4154,8 +4154,8 @@
             "time_removed_from_sim": 4360.0,
             "heading": -2.7897492313280545,
             "density": 48.90909090909091,
-            "average_time_to_plan_avoidance": 0.00030315644813306403,
-            "total_planning_time": 0.020008325576782227
+            "average_time_to_plan_avoidance": 0.00036347634864575934,
+            "total_planning_time": 0.023989439010620117
         },
         {
             "flight_status": "finished",
@@ -4170,8 +4170,8 @@
             "time_removed_from_sim": 4380.0,
             "heading": -2.62076273926343,
             "density": 48.908256880733944,
-            "average_time_to_plan_avoidance": 0.00018063816455526088,
-            "total_planning_time": 0.019689559936523438
+            "average_time_to_plan_avoidance": 0.00033939869031993623,
+            "total_planning_time": 0.03699445724487305
         },
         {
             "flight_status": "finished",
@@ -4186,8 +4186,8 @@
             "time_removed_from_sim": 4380.0,
             "heading": -0.6187430208048471,
             "density": 48.9,
-            "average_time_to_plan_avoidance": 0.0002206861972808838,
-            "total_planning_time": 0.017654895782470703
+            "average_time_to_plan_avoidance": 0.0004494220018386841,
+            "total_planning_time": 0.03595376014709473
         },
         {
             "flight_status": "finished",
@@ -4202,8 +4202,8 @@
             "time_removed_from_sim": 4420.0,
             "heading": 1.7911410834812447,
             "density": 48.91509433962264,
-            "average_time_to_plan_avoidance": 0.0004614951475611273,
-            "total_planning_time": 0.04891848564147949
+            "average_time_to_plan_avoidance": 0.0004234561380350365,
+            "total_planning_time": 0.04488635063171387
         },
         {
             "flight_status": "finished",
@@ -4218,8 +4218,8 @@
             "time_removed_from_sim": 4450.0,
             "heading": 2.955990338907306,
             "density": 48.75675675675676,
-            "average_time_to_plan_avoidance": 5.719468400285051e-05,
-            "total_planning_time": 0.0021162033081054688
+            "average_time_to_plan_avoidance": 0.00029633496258709883,
+            "total_planning_time": 0.010964393615722656
         },
         {
             "flight_status": "finished",
@@ -4234,8 +4234,8 @@
             "time_removed_from_sim": 4480.0,
             "heading": 0.2579851152653071,
             "density": 48.68181818181818,
-            "average_time_to_plan_avoidance": 0.0010777495124123313,
-            "total_planning_time": 0.02371048927307129
+            "average_time_to_plan_avoidance": 0.0001816857944835316,
+            "total_planning_time": 0.003997087478637695
         },
         {
             "flight_status": "finished",
@@ -4250,8 +4250,8 @@
             "time_removed_from_sim": 4510.0,
             "heading": 1.503338885469938,
             "density": 48.816326530612244,
-            "average_time_to_plan_avoidance": 0.0006696788632139868,
-            "total_planning_time": 0.03281426429748535
+            "average_time_to_plan_avoidance": 0.0002457560325155453,
+            "total_planning_time": 0.012042045593261719
         },
         {
             "flight_status": "finished",
@@ -4266,8 +4266,8 @@
             "time_removed_from_sim": 4560.0,
             "heading": 2.22764473912336,
             "density": 48.90526315789474,
-            "average_time_to_plan_avoidance": 0.0003291857870001542,
-            "total_planning_time": 0.03127264976501465
+            "average_time_to_plan_avoidance": 0.0004105166385048314,
+            "total_planning_time": 0.038999080657958984
         },
         {
             "flight_status": "finished",
@@ -4282,8 +4282,8 @@
             "time_removed_from_sim": 4580.0,
             "heading": 1.9134901802738136,
             "density": 48.839285714285715,
-            "average_time_to_plan_avoidance": 0.0003508244241986956,
-            "total_planning_time": 0.019646167755126953
+            "average_time_to_plan_avoidance": 0.00048097542354038784,
+            "total_planning_time": 0.02693462371826172
         },
         {
             "flight_status": "finished",
@@ -4298,8 +4298,8 @@
             "time_removed_from_sim": 4590.0,
             "heading": -1.4789318985943007,
             "density": 48.827586206896555,
-            "average_time_to_plan_avoidance": 0.0003390887687946188,
-            "total_planning_time": 0.01966714859008789
+            "average_time_to_plan_avoidance": 0.0004144742571074387,
+            "total_planning_time": 0.024039506912231445
         },
         {
             "flight_status": "finished",
@@ -4314,8 +4314,8 @@
             "time_removed_from_sim": 4600.0,
             "heading": -1.850879532376584,
             "density": 48.875,
-            "average_time_to_plan_avoidance": 0.00038947571407664907,
-            "total_planning_time": 0.03427386283874512
+            "average_time_to_plan_avoidance": 0.0003755119713869962,
+            "total_planning_time": 0.033045053482055664
         },
         {
             "flight_status": "finished",
@@ -4330,8 +4330,8 @@
             "time_removed_from_sim": 4620.0,
             "heading": 0.7905088961085233,
             "density": 48.88392857142857,
-            "average_time_to_plan_avoidance": 0.0008749046495982579,
-            "total_planning_time": 0.09798932075500488
+            "average_time_to_plan_avoidance": 0.00031243903296334404,
+            "total_planning_time": 0.03499317169189453
         },
         {
             "flight_status": "finished",
@@ -4346,8 +4346,8 @@
             "time_removed_from_sim": 4660.0,
             "heading": 2.6544444274236554,
             "density": 48.872727272727275,
-            "average_time_to_plan_avoidance": 0.0004120154814286665,
-            "total_planning_time": 0.04532170295715332
+            "average_time_to_plan_avoidance": 0.00035463029688054867,
+            "total_planning_time": 0.03900933265686035
         },
         {
             "flight_status": "finished",
@@ -4362,8 +4362,8 @@
             "time_removed_from_sim": 4660.0,
             "heading": -2.8470696287049697,
             "density": 48.5,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.000499725341796875,
+            "total_planning_time": 0.00299835205078125
         },
         {
             "flight_status": "finished",
@@ -4378,8 +4378,8 @@
             "time_removed_from_sim": 4690.0,
             "heading": 1.3013273202825781,
             "density": 48.825,
-            "average_time_to_plan_avoidance": 0.00025844275951385497,
-            "total_planning_time": 0.0206754207611084
+            "average_time_to_plan_avoidance": 0.00039902031421661376,
+            "total_planning_time": 0.0319216251373291
         },
         {
             "flight_status": "finished",
@@ -4394,8 +4394,8 @@
             "time_removed_from_sim": 4710.0,
             "heading": 1.5305455164843131,
             "density": 48.857142857142854,
-            "average_time_to_plan_avoidance": 8.433205740792411e-05,
-            "total_planning_time": 0.008264541625976562
+            "average_time_to_plan_avoidance": 0.0004595518112182617,
+            "total_planning_time": 0.04503607749938965
         },
         {
             "flight_status": "finished",
@@ -4410,8 +4410,8 @@
             "time_removed_from_sim": 4720.0,
             "heading": -1.9215830603835737,
             "density": 48.87719298245614,
-            "average_time_to_plan_avoidance": 0.0007210739871911835,
-            "total_planning_time": 0.08220243453979492
+            "average_time_to_plan_avoidance": 0.0002986234531067965,
+            "total_planning_time": 0.034043073654174805
         },
         {
             "flight_status": "finished",
@@ -4426,8 +4426,8 @@
             "time_removed_from_sim": 4720.0,
             "heading": -0.19175117409422274,
             "density": 48.857142857142854,
-            "average_time_to_plan_avoidance": 0.00019060348977847975,
-            "total_planning_time": 0.018679141998291016
+            "average_time_to_plan_avoidance": 0.00033571768780143893,
+            "total_planning_time": 0.032900333404541016
         },
         {
             "flight_status": "finished",
@@ -4442,8 +4442,8 @@
             "time_removed_from_sim": 4720.0,
             "heading": -0.04637510763598694,
             "density": 48.78378378378378,
-            "average_time_to_plan_avoidance": 0.000801350619341876,
-            "total_planning_time": 0.029649972915649414
+            "average_time_to_plan_avoidance": 0.00021612322008287584,
+            "total_planning_time": 0.007996559143066406
         },
         {
             "flight_status": "finished",
@@ -4458,8 +4458,8 @@
             "time_removed_from_sim": 4730.0,
             "heading": -2.1346980930868966,
             "density": 48.87826086956522,
-            "average_time_to_plan_avoidance": 0.0007706144581670347,
-            "total_planning_time": 0.08862066268920898
+            "average_time_to_plan_avoidance": 0.0003470089124596637,
+            "total_planning_time": 0.03990602493286133
         },
         {
             "flight_status": "finished",
@@ -4490,8 +4490,8 @@
             "time_removed_from_sim": 4770.0,
             "heading": -0.6228003325190282,
             "density": 48.93333333333333,
-            "average_time_to_plan_avoidance": 0.0008673350016276042,
-            "total_planning_time": 0.013010025024414062
+            "average_time_to_plan_avoidance": 0.00013333956400553385,
+            "total_planning_time": 0.002000093460083008
         },
         {
             "flight_status": "finished",
@@ -4506,8 +4506,8 @@
             "time_removed_from_sim": 4780.0,
             "heading": 0.6092383246868561,
             "density": 48.88135593220339,
-            "average_time_to_plan_avoidance": 0.0006017402067022809,
-            "total_planning_time": 0.07100534439086914
+            "average_time_to_plan_avoidance": 0.0003637721983052916,
+            "total_planning_time": 0.042925119400024414
         },
         {
             "flight_status": "finished",
@@ -4522,8 +4522,8 @@
             "time_removed_from_sim": 4780.0,
             "heading": -1.7976491416073759,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.000668803850809733,
+            "total_planning_time": 0.0040128231048583984
         },
         {
             "flight_status": "finished",
@@ -4538,8 +4538,8 @@
             "time_removed_from_sim": 4810.0,
             "heading": -0.16752245268761864,
             "density": 48.81818181818182,
-            "average_time_to_plan_avoidance": 0.0008666840466586026,
-            "total_planning_time": 0.019067049026489258
+            "average_time_to_plan_avoidance": 0.0002272020686756481,
+            "total_planning_time": 0.004998445510864258
         },
         {
             "flight_status": "finished",
@@ -4554,8 +4554,8 @@
             "time_removed_from_sim": 4830.0,
             "heading": 0.001099628413343959,
             "density": 48.854166666666664,
-            "average_time_to_plan_avoidance": 0.0009983877340952556,
-            "total_planning_time": 0.09584522247314453
+            "average_time_to_plan_avoidance": 0.0002500489354133606,
+            "total_planning_time": 0.024004697799682617
         },
         {
             "flight_status": "finished",
@@ -4570,8 +4570,8 @@
             "time_removed_from_sim": 4880.0,
             "heading": 2.6574224996993014,
             "density": 48.87155963302752,
-            "average_time_to_plan_avoidance": 0.0006248076027686443,
-            "total_planning_time": 0.06810402870178223
+            "average_time_to_plan_avoidance": 0.00028406151937782217,
+            "total_planning_time": 0.030962705612182617
         },
         {
             "flight_status": "finished",
@@ -4586,8 +4586,8 @@
             "time_removed_from_sim": 4880.0,
             "heading": -0.2562542743429034,
             "density": 48.85858585858586,
-            "average_time_to_plan_avoidance": 0.0008553952881784151,
-            "total_planning_time": 0.08468413352966309
+            "average_time_to_plan_avoidance": 0.00030345146102134625,
+            "total_planning_time": 0.03004169464111328
         },
         {
             "flight_status": "finished",
@@ -4602,8 +4602,8 @@
             "time_removed_from_sim": 4880.0,
             "heading": -0.0286183066965414,
             "density": 48.85263157894737,
-            "average_time_to_plan_avoidance": 0.0005041523983604029,
-            "total_planning_time": 0.04789447784423828
+            "average_time_to_plan_avoidance": 0.00031570635343852797,
+            "total_planning_time": 0.029992103576660156
         },
         {
             "flight_status": "finished",
@@ -4618,8 +4618,8 @@
             "time_removed_from_sim": 4900.0,
             "heading": -0.016089532177082522,
             "density": 48.8235294117647,
-            "average_time_to_plan_avoidance": 0.00025060597588034235,
-            "total_planning_time": 0.01704120635986328
+            "average_time_to_plan_avoidance": 0.0002789847991045784,
+            "total_planning_time": 0.018970966339111328
         },
         {
             "flight_status": "finished",
@@ -4634,8 +4634,8 @@
             "time_removed_from_sim": 4900.0,
             "heading": -0.29454683778321133,
             "density": 48.857142857142854,
-            "average_time_to_plan_avoidance": 0.0009277590683528355,
-            "total_planning_time": 0.05195450782775879
+            "average_time_to_plan_avoidance": 0.00035759806632995605,
+            "total_planning_time": 0.02002549171447754
         },
         {
             "flight_status": "finished",
@@ -4650,8 +4650,8 @@
             "time_removed_from_sim": 4910.0,
             "heading": -1.133248120567656,
             "density": 48.829268292682926,
-            "average_time_to_plan_avoidance": 0.0005963139417694836,
-            "total_planning_time": 0.048897743225097656
+            "average_time_to_plan_avoidance": 0.00028078149004680356,
+            "total_planning_time": 0.02302408218383789
         },
         {
             "flight_status": "finished",
@@ -4666,8 +4666,8 @@
             "time_removed_from_sim": 4920.0,
             "heading": 2.346717864248406,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 7.732097919170673e-05,
-            "total_planning_time": 0.002010345458984375
+            "average_time_to_plan_avoidance": 0.00030765166649451625,
+            "total_planning_time": 0.007998943328857422
         },
         {
             "flight_status": "finished",
@@ -4682,8 +4682,8 @@
             "time_removed_from_sim": 4960.0,
             "heading": -1.0911440033831776,
             "density": 48.833333333333336,
-            "average_time_to_plan_avoidance": 0.0007682669730413528,
-            "total_planning_time": 0.06453442573547363
+            "average_time_to_plan_avoidance": 0.0004284835997081938,
+            "total_planning_time": 0.03599262237548828
         },
         {
             "flight_status": "finished",
@@ -4698,8 +4698,8 @@
             "time_removed_from_sim": 4990.0,
             "heading": 1.669486898381326,
             "density": 48.84090909090909,
-            "average_time_to_plan_avoidance": 0.0007496367801319469,
-            "total_planning_time": 0.06596803665161133
+            "average_time_to_plan_avoidance": 0.0003859942609613592,
+            "total_planning_time": 0.03396749496459961
         },
         {
             "flight_status": "finished",
@@ -4714,8 +4714,8 @@
             "time_removed_from_sim": 4990.0,
             "heading": -1.799804811228341,
             "density": 48.87301587301587,
-            "average_time_to_plan_avoidance": 0.0008400735400971912,
-            "total_planning_time": 0.05292463302612305
+            "average_time_to_plan_avoidance": 0.0003803646753704737,
+            "total_planning_time": 0.023962974548339844
         },
         {
             "flight_status": "finished",
@@ -4730,8 +4730,8 @@
             "time_removed_from_sim": 4990.0,
             "heading": -0.6644860632814195,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.0002307891845703125,
+            "total_planning_time": 0.006000518798828125
         },
         {
             "flight_status": "finished",
@@ -4746,8 +4746,8 @@
             "time_removed_from_sim": 5030.0,
             "heading": -1.843519495537028,
             "density": 48.86,
-            "average_time_to_plan_avoidance": 0.00030742168426513674,
-            "total_planning_time": 0.030742168426513672
+            "average_time_to_plan_avoidance": 0.00029964923858642577,
+            "total_planning_time": 0.029964923858642578
         },
         {
             "flight_status": "finished",
@@ -4762,8 +4762,8 @@
             "time_removed_from_sim": 5030.0,
             "heading": 3.0324874651039804,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.00014349392482212612,
-            "total_planning_time": 0.0010044574737548828
+            "average_time_to_plan_avoidance": 0.0004286766052246094,
+            "total_planning_time": 0.0030007362365722656
         },
         {
             "flight_status": "finished",
@@ -4778,8 +4778,8 @@
             "time_removed_from_sim": 5050.0,
             "heading": 1.9138814600370166,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00024190093531753078,
+            "total_planning_time": 0.007982730865478516
         },
         {
             "flight_status": "finished",
@@ -4794,8 +4794,8 @@
             "time_removed_from_sim": 5070.0,
             "heading": -1.9963496395843705,
             "density": 48.85263157894737,
-            "average_time_to_plan_avoidance": 0.00027566959983424134,
-            "total_planning_time": 0.02618861198425293
+            "average_time_to_plan_avoidance": 0.0002944870998984889,
+            "total_planning_time": 0.027976274490356445
         },
         {
             "flight_status": "finished",
@@ -4810,8 +4810,8 @@
             "time_removed_from_sim": 5080.0,
             "heading": -0.4344590731942103,
             "density": 48.867924528301884,
-            "average_time_to_plan_avoidance": 0.0011928396404914136,
-            "total_planning_time": 0.12644100189208984
+            "average_time_to_plan_avoidance": 0.00033004553812854693,
+            "total_planning_time": 0.03498482704162598
         },
         {
             "flight_status": "finished",
@@ -4826,8 +4826,8 @@
             "time_removed_from_sim": 5100.0,
             "heading": -0.9168365503561998,
             "density": 48.916666666666664,
-            "average_time_to_plan_avoidance": 0.0006861388683319092,
-            "total_planning_time": 0.04940199851989746
+            "average_time_to_plan_avoidance": 0.0003756019804212782,
+            "total_planning_time": 0.02704334259033203
         },
         {
             "flight_status": "finished",
@@ -4842,8 +4842,8 @@
             "time_removed_from_sim": 5100.0,
             "heading": -1.749947092051833,
             "density": 48.907407407407405,
-            "average_time_to_plan_avoidance": 0.0008869347748933015,
-            "total_planning_time": 0.04789447784423828
+            "average_time_to_plan_avoidance": 0.00029569643515127674,
+            "total_planning_time": 0.015967607498168945
         },
         {
             "flight_status": "finished",
@@ -4858,8 +4858,8 @@
             "time_removed_from_sim": 5120.0,
             "heading": 0.06454890599026708,
             "density": 48.857142857142854,
-            "average_time_to_plan_avoidance": 0.000817006948042889,
-            "total_planning_time": 0.08006668090820312
+            "average_time_to_plan_avoidance": 0.0003672230000398597,
+            "total_planning_time": 0.03598785400390625
         },
         {
             "flight_status": "finished",
@@ -4874,8 +4874,8 @@
             "time_removed_from_sim": 5120.0,
             "heading": -2.8323122104906586,
             "density": 48.90243902439025,
-            "average_time_to_plan_avoidance": 0.0006943359607603492,
-            "total_planning_time": 0.05693554878234863
+            "average_time_to_plan_avoidance": 0.0003907854964093464,
+            "total_planning_time": 0.032044410705566406
         },
         {
             "flight_status": "finished",
@@ -4890,8 +4890,8 @@
             "time_removed_from_sim": 5150.0,
             "heading": -1.1620877104351015,
             "density": 48.86842105263158,
-            "average_time_to_plan_avoidance": 0.0006811556063200298,
-            "total_planning_time": 0.0776517391204834
+            "average_time_to_plan_avoidance": 0.0004649162292480469,
+            "total_planning_time": 0.053000450134277344
         },
         {
             "flight_status": "finished",
@@ -4906,8 +4906,8 @@
             "time_removed_from_sim": 5160.0,
             "heading": 0.7838702825985306,
             "density": 48.88805970149254,
-            "average_time_to_plan_avoidance": 0.000676137297900755,
-            "total_planning_time": 0.09060239791870117
+            "average_time_to_plan_avoidance": 0.0004556054499611926,
+            "total_planning_time": 0.061051130294799805
         },
         {
             "flight_status": "finished",
@@ -4922,8 +4922,8 @@
             "time_removed_from_sim": 5180.0,
             "heading": -2.027753467331286,
             "density": 48.862385321100916,
-            "average_time_to_plan_avoidance": 0.0005222241812889729,
-            "total_planning_time": 0.05692243576049805
+            "average_time_to_plan_avoidance": 0.0004029777071891575,
+            "total_planning_time": 0.043924570083618164
         },
         {
             "flight_status": "finished",
@@ -4938,8 +4938,8 @@
             "time_removed_from_sim": 5180.0,
             "heading": -1.9461402061979138,
             "density": 48.96153846153846,
-            "average_time_to_plan_avoidance": 0.000639796257019043,
-            "total_planning_time": 0.016634702682495117
+            "average_time_to_plan_avoidance": 0.0002693304648766151,
+            "total_planning_time": 0.007002592086791992
         },
         {
             "flight_status": "finished",
@@ -4954,8 +4954,8 @@
             "time_removed_from_sim": 5210.0,
             "heading": 2.6181665956220908,
             "density": 48.86842105263158,
-            "average_time_to_plan_avoidance": 0.0007297156149880928,
-            "total_planning_time": 0.08318758010864258
+            "average_time_to_plan_avoidance": 0.00036858884911788136,
+            "total_planning_time": 0.04201912879943848
         },
         {
             "flight_status": "finished",
@@ -4970,8 +4970,8 @@
             "time_removed_from_sim": 5210.0,
             "heading": -2.750613726326761,
             "density": 48.85576923076923,
-            "average_time_to_plan_avoidance": 0.0012499002309945913,
-            "total_planning_time": 0.1299896240234375
+            "average_time_to_plan_avoidance": 0.0003753235706916222,
+            "total_planning_time": 0.03903365135192871
         },
         {
             "flight_status": "finished",
@@ -4986,8 +4986,8 @@
             "time_removed_from_sim": 5210.0,
             "heading": -1.6246025055877835,
             "density": 48.87234042553192,
-            "average_time_to_plan_avoidance": 0.0004675768791361058,
-            "total_planning_time": 0.043952226638793945
+            "average_time_to_plan_avoidance": 0.00023365274388739403,
+            "total_planning_time": 0.02196335792541504
         },
         {
             "flight_status": "finished",
@@ -5002,8 +5002,8 @@
             "time_removed_from_sim": 5220.0,
             "heading": 2.2849610254468296,
             "density": 48.9277108433735,
-            "average_time_to_plan_avoidance": 0.0008197893579322172,
-            "total_planning_time": 0.06804251670837402
+            "average_time_to_plan_avoidance": 0.0003616781119840691,
+            "total_planning_time": 0.030019283294677734
         },
         {
             "flight_status": "finished",
@@ -5018,8 +5018,8 @@
             "time_removed_from_sim": 5230.0,
             "heading": -2.434228487581436,
             "density": 48.9010989010989,
-            "average_time_to_plan_avoidance": 0.00024394674615545587,
-            "total_planning_time": 0.022199153900146484
+            "average_time_to_plan_avoidance": 0.00039652415684291294,
+            "total_planning_time": 0.03608369827270508
         },
         {
             "flight_status": "finished",
@@ -5034,8 +5034,8 @@
             "time_removed_from_sim": 5230.0,
             "heading": 2.9055523622937933,
             "density": 48.97142857142857,
-            "average_time_to_plan_avoidance": 0.0,
-            "total_planning_time": 0.0
+            "average_time_to_plan_avoidance": 0.00031489644731794083,
+            "total_planning_time": 0.01102137565612793
         },
         {
             "flight_status": "finished",
@@ -5050,8 +5050,8 @@
             "time_removed_from_sim": 5240.0,
             "heading": -1.8567121628388843,
             "density": 48.91860465116279,
-            "average_time_to_plan_avoidance": 0.0007901940234871798,
-            "total_planning_time": 0.06795668601989746
+            "average_time_to_plan_avoidance": 0.00036011740218761353,
+            "total_planning_time": 0.030970096588134766
         },
         {
             "flight_status": "finished",
@@ -5066,8 +5066,8 @@
             "time_removed_from_sim": 5280.0,
             "heading": -0.9235130828517858,
             "density": 48.94,
-            "average_time_to_plan_avoidance": 0.0006652307510375976,
-            "total_planning_time": 0.03326153755187988
+            "average_time_to_plan_avoidance": 0.0002001047134399414,
+            "total_planning_time": 0.01000523567199707
         },
         {
             "flight_status": "finished",
@@ -5082,8 +5082,8 @@
             "time_removed_from_sim": 5290.0,
             "heading": -1.5379883431567323,
             "density": 48.888888888888886,
-            "average_time_to_plan_avoidance": 0.0006355468672935409,
-            "total_planning_time": 0.06291913986206055
+            "average_time_to_plan_avoidance": 0.00033324896687209006,
+            "total_planning_time": 0.032991647720336914
         },
         {
             "flight_status": "finished",
@@ -5098,8 +5098,8 @@
             "time_removed_from_sim": 5290.0,
             "heading": -0.20596176534294852,
             "density": 48.88659793814433,
-            "average_time_to_plan_avoidance": 0.0005249534685587146,
-            "total_planning_time": 0.05092048645019531
+            "average_time_to_plan_avoidance": 0.00023672752773638852,
+            "total_planning_time": 0.022962570190429688
         },
         {
             "flight_status": "finished",
@@ -5114,8 +5114,8 @@
             "time_removed_from_sim": 5310.0,
             "heading": -2.768361847660433,
             "density": 49.0,
-            "average_time_to_plan_avoidance": 0.00030422210693359375,
-            "total_planning_time": 0.0015211105346679688
+            "average_time_to_plan_avoidance": 0.0,
+            "total_planning_time": 0.0
         },
         {
             "flight_status": "finished",
@@ -5130,8 +5130,8 @@
             "time_removed_from_sim": 5320.0,
             "heading": 1.1233360859441832,
             "density": 48.92857142857143,
-            "average_time_to_plan_avoidance": 0.0003724722635178339,
-            "total_planning_time": 0.015643835067749023
+            "average_time_to_plan_avoidance": 0.00030917213076636906,
+            "total_planning_time": 0.0129852294921875
         },
         {
             "flight_status": "finished",
@@ -5146,8 +5146,8 @@
             "time_removed_from_sim": 5350.0,
             "heading": 2.852084125229161,
             "density": 48.89108910891089,
-            "average_time_to_plan_avoidance": 0.00113838261897021,
-            "total_planning_time": 0.11497664451599121
+            "average_time_to_plan_avoidance": 0.00036638089925935955,
+            "total_planning_time": 0.03700447082519531
         },
         {
             "flight_status": "finished",
@@ -5162,8 +5162,8 @@
             "time_removed_from_sim": 5350.0,
             "heading": 0.20996130274530642,
             "density": 48.892857142857146,
-            "average_time_to_plan_avoidance": 3.608635493687221e-05,
-            "total_planning_time": 0.0010104179382324219
+            "average_time_to_plan_avoidance": 0.00035725321088518413,
+            "total_planning_time": 0.010003089904785156
         },
         {
             "flight_status": "ongoing",

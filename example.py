@@ -3,6 +3,10 @@ from uam_simulator import simulation
 from uam_simulator import display
 import random
 import json
+import time
+
+# timing
+startTime = time.time()
 
 # Simulation parameters
 random.seed(58)  # Set a random seed to ensure repeatability of a given run
@@ -22,7 +26,7 @@ simulation_type = 'reactive'  # set to 'reactive' (access control: free) or 'str
 algo_type = 'MVP_Bluesky'  # For reactive: MVP_Bluesky, ORCA, straight. For strategic: Decoupled, LocalVO, SIPP
 structure = None  # None or {'type': 'layer', 'parameters': [0, 180]}. The range for the layer is specified in degrees in parameters and can be set to any number
 
-visualization = True  # Turn visualization on or off. If visualization is on, the file must be saved in the simulation thread
+visualization = False  # Turn visualization on or off. If visualization is on, the file must be saved in the simulation thread
 
 if visualization:
     update_queue = Queue()
@@ -65,3 +69,6 @@ else:
     filename = 'logs/' + simulation_name + '.json'
     with open(filename, 'w') as file:
         json.dump(log, file, indent=4)
+
+wallTime = (time.time() - startTime)
+print('Time to complete simulation (seconds): ', str(wallTime))
